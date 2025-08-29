@@ -1,0 +1,3335 @@
+[
+  {
+    "id": 7223496212672,
+    "email": "akhalaia404@gmail.com",
+    "created_at": "2024-06-11 20:30:55.000000 +00:00",
+    "historical_purchase_frequency": [
+      {
+        "order_id": 6285391200448,
+        "total_spent": 47.0,
+        "order_date": "2025-08-25T12:31:22+00:00",
+        "order_lines": [
+          {
+            "product_name": "მარწყვი კივით - Default Title",
+            "product_price": 25.99,
+            "quantity": 1
+          },
+          {
+            "product_name": "ბულდოგი - Default Title",
+            "product_price": 20.99,
+            "quantity": 1
+          },
+          {
+            "product_name": "ჩაი ლატე - Default Title",
+            "product_price": 25.99,
+            "quantity": 1
+          },
+          {
+            "product_name": "კოწახური - Default Title",
+            "product_price": 25.99,
+            "quantity": 1
+          },
+          {
+            "product_name": "ბურგუნდი 09 - Default Title",
+            "product_price": 20.99,
+            "quantity": 1
+          }
+        ]
+      },
+      {
+        "order_id": 6284434997440,
+        "total_spent": 417.0,
+        "order_date": "2025-08-24T18:36:03+00:00",
+        "order_lines": [
+          {
+            "product_name": "MEAMA Ultimate - 3 თვიანი პაკეტი - Default Title",
+            "product_price": 0.0,
+            "quantity": 1
+          },
+          {
+            "product_name": "ასიმეტრიული მინის ჰოლდერი | 18სმ - Default Title",
+            "product_price": 49.99,
+            "quantity": 1
+          },
+          {
+            "product_name": "მეტალის ჭიქა - მენთოლი / 280მლ",
+            "product_price": 39.99,
+            "quantity": 1
+          },
+          {
+            "product_name": "მეტალის ჭიქა - იასამნისფერი / 280მლ",
+            "product_price": 39.99,
+            "quantity": 1
+          },
+          {
+            "product_name": "მეტალის ჭიქა - თეთრი / 280მლ",
+            "product_price": 39.99,
+            "quantity": 1
+          },
+          {
+            "product_name": "მეტალის ჭიქა - შავი / 280მლ",
+            "product_price": 39.99,
+            "quantity": 1
+          },
+          {
+            "product_name": "ვერსეტაილი - შავი",
+            "product_price": 799.0,
+            "quantity": 1
+          }
+        ]
+      },
+      {
+        "order_id": 6233418662080,
+        "total_spent": 9.0,
+        "order_date": "2025-07-18T15:12:28+00:00",
+        "order_lines": [
+          {
+            "product_name": "მილკას შოკოლადის ნაკრები კაკაოთი - Default Title",
+            "product_price": 10.0,
+            "quantity": 6
+          }
+        ]
+      },
+      {
+        "order_id": 6233366560960,
+        "total_spent": 18.0,
+        "order_date": "2025-07-18T14:26:36+00:00",
+        "order_lines": [
+          {
+            "product_name": "მილკას შოკოლადის ნაკრები კაკაოთი - Default Title",
+            "product_price": 10.0,
+            "quantity": 2
+          },
+          {
+            "product_name": "მილკას შოკოლადის ნაკრები რძით - Default Title",
+            "product_price": 10.0,
+            "quantity": 2
+          },
+          {
+            "product_name": "კოწახური - Default Title",
+            "product_price": 25.99,
+            "quantity": 1
+          }
+        ]
+      },
+      {
+        "order_id": 6233253281984,
+        "total_spent": 6.0,
+        "order_date": "2025-07-18T12:24:47+00:00",
+        "order_lines": [
+          {
+            "product_name": "მილკას შოკოლადის ნაკრები კაკაოთი - Default Title",
+            "product_price": 10.0,
+            "quantity": 2
+          },
+          {
+            "product_name": "მილკას შოკოლადის ნაკრები რძით - Default Title",
+            "product_price": 10.0,
+            "quantity": 2
+          }
+        ]
+      },
+      {
+        "order_id": 6141514547392,
+        "total_spent": 1.0,
+        "order_date": "2025-05-20T06:23:16+00:00",
+        "order_lines": [
+          {
+            "product_name": "პატარა ჭიქა - Vending - Default Title",
+            "product_price": 0.0,
+            "quantity": 1
+          },
+          {
+            "product_name": "შაქარი - Vending - Default Title",
+            "product_price": 0.0,
+            "quantity": 1
+          },
+          {
+            "product_name": "ბურგუნდი 09 - Vending - ბურგუნდი 09 - Vending 1 Gel",
+            "product_price": 1.0,
+            "quantity": 1
+          }
+        ]
+      },
+      {
+        "order_id": 6137989923008,
+        "total_spent": 1.0,
+        "order_date": "2025-05-17T13:55:25+00:00",
+        "order_lines": [
+          {
+            "product_name": "კარკადე კენკრით - Vending - კარკადე კენკრით - Vending 2.25 Gel",
+            "product_price": 2.0,
+            "quantity": 1
+          }
+        ]
+      },
+      {
+        "order_id": 6130342625472,
+        "total_spent": 1.0,
+        "order_date": "2025-05-12T09:06:53+00:00",
+        "order_lines": [
+          {
+            "product_name": "კარკადე კენკრით - Vending - კარკადე კენკრით - Vending 2.25 Gel",
+            "product_price": 2.0,
+            "quantity": 1
+          }
+        ]
+      },
+      {
+        "order_id": 6101603811520,
+        "total_spent": 1.0,
+        "order_date": "2025-04-26T18:26:44+00:00",
+        "order_lines": [
+          {
+            "product_name": "კარკადე კენკრით - Vending - კარკადე კენკრით - Vending 2.25 Gel",
+            "product_price": 2.0,
+            "quantity": 1
+          }
+        ]
+      },
+      {
+        "order_id": 6098037997760,
+        "total_spent": 1.0,
+        "order_date": "2025-04-24T09:02:43+00:00",
+        "order_lines": [
+          {
+            "product_name": "დიდი ჭიქა - Vending - Default Title",
+            "product_price": 0.0,
+            "quantity": 1
+          },
+          {
+            "product_name": "შაქარი - Vending - Default Title",
+            "product_price": 0.0,
+            "quantity": 1
+          },
+          {
+            "product_name": "კარკადე კენკრით - Vending - კარკადე კენკრით - Vending 1 Gel",
+            "product_price": 1.0,
+            "quantity": 1
+          }
+        ]
+      },
+      {
+        "order_id": 6093238370496,
+        "total_spent": 0.0,
+        "order_date": "2025-04-22T07:13:17+00:00",
+        "order_lines": [
+          {
+            "product_name": "ცივი კლასიკი - Default Title",
+            "product_price": 15.0,
+            "quantity": 1
+          }
+        ]
+      },
+      {
+        "order_id": 6079602229440,
+        "total_spent": 43.98,
+        "order_date": "2025-04-16T15:56:42+00:00",
+        "order_lines": [
+          {
+            "product_name": "ტყის თხილი შოკოლადი - Default Title",
+            "product_price": 21.99,
+            "quantity": 1
+          },
+          {
+            "product_name": "მაკაპუნო ქოქოსი - Default Title",
+            "product_price": 21.99,
+            "quantity": 1
+          }
+        ]
+      },
+      {
+        "order_id": 6052011901120,
+        "total_spent": 1.0,
+        "order_date": "2025-04-01T08:47:35+00:00",
+        "order_lines": [
+          {
+            "product_name": "დიდი ჭიქა - Vending - Default Title",
+            "product_price": 0.0,
+            "quantity": 1
+          },
+          {
+            "product_name": "Unknown Product",
+            "product_price": null,
+            "quantity": 1
+          }
+        ]
+      },
+      {
+        "order_id": 6050878750912,
+        "total_spent": 1.0,
+        "order_date": "2025-03-31T15:27:21+00:00",
+        "order_lines": [
+          {
+            "product_name": "დიდი ჭიქა - Vending - Default Title",
+            "product_price": 0.0,
+            "quantity": 1
+          },
+          {
+            "product_name": "შაქარი - Vending - Default Title",
+            "product_price": 0.0,
+            "quantity": 1
+          },
+          {
+            "product_name": "Unknown Product",
+            "product_price": null,
+            "quantity": 1
+          }
+        ]
+      },
+      {
+        "order_id": 6048386711744,
+        "total_spent": 0.0,
+        "order_date": "2025-03-29T16:09:01+00:00",
+        "order_lines": [
+          {
+            "product_name": "კარკადე კენკრით - Free - Default Title",
+            "product_price": 0.0,
+            "quantity": 1
+          },
+          {
+            "product_name": "ბრაზილია 08 - Free - Default Title",
+            "product_price": 0.0,
+            "quantity": 1
+          },
+          {
+            "product_name": "კარამელი - Free - Default Title",
+            "product_price": 0.0,
+            "quantity": 1
+          }
+        ]
+      },
+      {
+        "order_id": 6048385073344,
+        "total_spent": 4.5,
+        "order_date": "2025-03-29T16:08:04+00:00",
+        "order_lines": [
+          {
+            "product_name": "დღის შეთავაზება - Default Title",
+            "product_price": 4.5,
+            "quantity": 1
+          }
+        ]
+      },
+      {
+        "order_id": 6019893723328,
+        "total_spent": 21.99,
+        "order_date": "2025-03-10T09:23:27+00:00",
+        "order_lines": [
+          {
+            "product_name": "მაკაპუნო ქოქოსი - Default Title",
+            "product_price": 21.99,
+            "quantity": 1
+          }
+        ]
+      },
+      {
+        "order_id": 5919304483008,
+        "total_spent": 27.0,
+        "order_date": "2025-01-23T16:51:12+00:00",
+        "order_lines": [
+          {
+            "product_name": "ელ-სალვადორი 04 - Default Title",
+            "product_price": 24.99,
+            "quantity": 1
+          },
+          {
+            "product_name": "გვატემალა 07 - Default Title",
+            "product_price": 24.99,
+            "quantity": 1
+          }
+        ]
+      },
+      {
+        "order_id": 5577935323328,
+        "total_spent": 28.19,
+        "order_date": "2024-06-27T19:45:02+00:00",
+        "order_lines": [
+          {
+            "product_name": "ცივი კლასიკი - Default Title",
+            "product_price": 15.0,
+            "quantity": 1
+          }
+        ]
+      }
+    ],
+    "historical_spending": 629.66,
+    "average_order_value": 33.14,
+    "total_orders": 19
+  },
+  {
+    "id": 7515993833664,
+    "email": "l.sharikadze@meama.ge",
+    "created_at": "2024-10-03 15:43:46.000000 +00:00",
+    "historical_purchase_frequency": [
+      {
+        "order_id": 6238367547584,
+        "total_spent": 2.0,
+        "order_date": "2025-07-22T06:59:34+00:00",
+        "order_lines": [
+          {
+            "product_name": "დიდი ჭიქა - Vending - Default Title",
+            "product_price": 0.0,
+            "quantity": 1
+          },
+          {
+            "product_name": "ირლანდიური ყავა - Vending - ირლანდიური ყავა - Vending 2.25 Gel",
+            "product_price": 2.0,
+            "quantity": 1
+          }
+        ]
+      },
+      {
+        "order_id": 6237379068096,
+        "total_spent": 2.0,
+        "order_date": "2025-07-21T13:55:44+00:00",
+        "order_lines": [
+          {
+            "product_name": "ბურგუნდი 09 - Vending - ბურგუნდი 09 - Vending 2.25 Gel",
+            "product_price": 2.0,
+            "quantity": 1
+          }
+        ]
+      },
+      {
+        "order_id": 6236222554304,
+        "total_spent": 24.99,
+        "order_date": "2025-07-20T16:18:04+00:00",
+        "order_lines": [
+          {
+            "product_name": "ბულდოგი - Default Title",
+            "product_price": 24.99,
+            "quantity": 1
+          }
+        ]
+      },
+      {
+        "order_id": 6227849085120,
+        "total_spent": 2.0,
+        "order_date": "2025-07-14T15:22:09+00:00",
+        "order_lines": [
+          {
+            "product_name": "პატარა ჭიქა - Vending - Default Title",
+            "product_price": 0.0,
+            "quantity": 1
+          },
+          {
+            "product_name": "მაკაპუნო ქოქოსი - Vending - მაკაპუნო ქოქოსი - Vending 2.25 Gel",
+            "product_price": 2.0,
+            "quantity": 1
+          }
+        ]
+      },
+      {
+        "order_id": 6227562135744,
+        "total_spent": 2.0,
+        "order_date": "2025-07-14T09:26:24+00:00",
+        "order_lines": [
+          {
+            "product_name": "იასამნისფერი 08 - Vending - იასამნისფერი 08 - Vending 2.25 Gel",
+            "product_price": 2.0,
+            "quantity": 1
+          }
+        ]
+      },
+      {
+        "order_id": 6219315118272,
+        "total_spent": 2.0,
+        "order_date": "2025-07-09T17:04:00+00:00",
+        "order_lines": [
+          {
+            "product_name": "დიდი ჭიქა - Vending - Default Title",
+            "product_price": 0.0,
+            "quantity": 1
+          },
+          {
+            "product_name": "ტყის თხილი - Vending - ტყის თხილი - Vending 2.25 Gel",
+            "product_price": 2.0,
+            "quantity": 1
+          }
+        ]
+      },
+      {
+        "order_id": 6205038297280,
+        "total_spent": 2.0,
+        "order_date": "2025-06-30T06:56:54+00:00",
+        "order_lines": [
+          {
+            "product_name": "პატარა ჭიქა - Vending - Default Title",
+            "product_price": 0.0,
+            "quantity": 1
+          },
+          {
+            "product_name": "იასამნისფერი 08 - Vending - იასამნისფერი 08 - Vending 2.25 Gel",
+            "product_price": 2.0,
+            "quantity": 1
+          }
+        ]
+      },
+      {
+        "order_id": 6202242662592,
+        "total_spent": 59.97,
+        "order_date": "2025-06-28T08:09:22+00:00",
+        "order_lines": [
+          {
+            "product_name": "ვანილი - Default Title",
+            "product_price": 21.99,
+            "quantity": 1
+          },
+          {
+            "product_name": "ტყის თხილი შოკოლადი - Default Title",
+            "product_price": 21.99,
+            "quantity": 1
+          },
+          {
+            "product_name": "ბულდოგი - Default Title",
+            "product_price": 20.99,
+            "quantity": 1
+          }
+        ]
+      },
+      {
+        "order_id": 6200708169920,
+        "total_spent": 2.0,
+        "order_date": "2025-06-27T08:47:13+00:00",
+        "order_lines": [
+          {
+            "product_name": "პატარა ჭიქა - Vending - Default Title",
+            "product_price": 0.0,
+            "quantity": 1
+          },
+          {
+            "product_name": "ბურგუნდი 09 - Vending - ბურგუნდი 09 - Vending 2.25 Gel",
+            "product_price": 2.0,
+            "quantity": 1
+          }
+        ]
+      },
+      {
+        "order_id": 6194033131712,
+        "total_spent": 45.98,
+        "order_date": "2025-06-22T17:26:15+00:00",
+        "order_lines": [
+          {
+            "product_name": "მაკაპუნო ქოქოსი - Default Title",
+            "product_price": 25.99,
+            "quantity": 1
+          },
+          {
+            "product_name": "ბულდოგი - Default Title",
+            "product_price": 24.99,
+            "quantity": 1
+          }
+        ]
+      },
+      {
+        "order_id": 6173912694976,
+        "total_spent": 25.99,
+        "order_date": "2025-06-08T13:33:43+00:00",
+        "order_lines": [
+          {
+            "product_name": "ტყის თხილი - Default Title",
+            "product_price": 25.99,
+            "quantity": 1
+          }
+        ]
+      },
+      {
+        "order_id": 6162906579136,
+        "total_spent": 2.0,
+        "order_date": "2025-06-04T15:31:16+00:00",
+        "order_lines": [
+          {
+            "product_name": "პატარა ჭიქა - Vending - Default Title",
+            "product_price": 0.0,
+            "quantity": 1
+          },
+          {
+            "product_name": "ბურგუნდი 09 - Vending - ბურგუნდი 09 - Vending 2.25 Gel",
+            "product_price": 2.0,
+            "quantity": 1
+          }
+        ]
+      },
+      {
+        "order_id": 6126503133376,
+        "total_spent": 2.0,
+        "order_date": "2025-05-09T13:45:49+00:00",
+        "order_lines": [
+          {
+            "product_name": "პატარა ჭიქა - Vending - Default Title",
+            "product_price": 0.0,
+            "quantity": 1
+          },
+          {
+            "product_name": "ბურგუნდი 09 - Vending - ბურგუნდი 09 - Vending 2.25 Gel",
+            "product_price": 2.0,
+            "quantity": 1
+          }
+        ]
+      },
+      {
+        "order_id": 6105630179520,
+        "total_spent": 2.0,
+        "order_date": "2025-04-29T12:34:49+00:00",
+        "order_lines": [
+          {
+            "product_name": "მაკაპუნო ქოქოსი - Vending - მაკაპუნო ქოქოსი - Vending 2.25 Gel",
+            "product_price": 2.0,
+            "quantity": 1
+          }
+        ]
+      },
+      {
+        "order_id": 6095653109952,
+        "total_spent": 1.0,
+        "order_date": "2025-04-23T05:54:48+00:00",
+        "order_lines": [
+          {
+            "product_name": "პატარა ჭიქა - Vending - Default Title",
+            "product_price": 0.0,
+            "quantity": 1
+          },
+          {
+            "product_name": "ყვითელი 04 - Vending - ყვითელი 04 - Vending 1 Gel",
+            "product_price": 1.0,
+            "quantity": 1
+          }
+        ]
+      },
+      {
+        "order_id": 6072948883648,
+        "total_spent": 0.0,
+        "order_date": "2025-04-11T14:09:20+00:00",
+        "order_lines": [
+          {
+            "product_name": "პატარა ჭიქა - Vending - Default Title",
+            "product_price": 0.0,
+            "quantity": 1
+          },
+          {
+            "product_name": "მაკაპუნო ქოქოსი - Free - Default Title",
+            "product_price": 0.0,
+            "quantity": 1
+          }
+        ]
+      },
+      {
+        "order_id": 6072602198208,
+        "total_spent": 0.0,
+        "order_date": "2025-04-11T07:09:15+00:00",
+        "order_lines": [
+          {
+            "product_name": "პატარა ჭიქა - Vending - Default Title",
+            "product_price": 0.0,
+            "quantity": 1
+          },
+          {
+            "product_name": "მაკაპუნო ქოქოსი - Free - Default Title",
+            "product_price": 0.0,
+            "quantity": 1
+          }
+        ]
+      },
+      {
+        "order_id": 6067448742080,
+        "total_spent": 2.25,
+        "order_date": "2025-04-07T08:08:02+00:00",
+        "order_lines": [
+          {
+            "product_name": "პატარა ჭიქა - Vending - Default Title",
+            "product_price": 0.0,
+            "quantity": 1
+          },
+          {
+            "product_name": "Unknown Product",
+            "product_price": null,
+            "quantity": 1
+          }
+        ]
+      },
+      {
+        "order_id": 6057108308160,
+        "total_spent": 0.0,
+        "order_date": "2025-04-04T09:19:12+00:00",
+        "order_lines": [
+          {
+            "product_name": "კარკადე კენკრით - Free - Default Title",
+            "product_price": 0.0,
+            "quantity": 1
+          }
+        ]
+      },
+      {
+        "order_id": 6057106768064,
+        "total_spent": 0.0,
+        "order_date": "2025-04-04T09:16:27+00:00",
+        "order_lines": [
+          {
+            "product_name": "კარკადე კენკრით - Free - Default Title",
+            "product_price": 0.0,
+            "quantity": 1
+          },
+          {
+            "product_name": "ტყის თხილი - Free - Default Title",
+            "product_price": 0.0,
+            "quantity": 1
+          }
+        ]
+      },
+      {
+        "order_id": 5981884580032,
+        "total_spent": 55.5,
+        "order_date": "2025-02-09T15:09:08+00:00",
+        "order_lines": [
+          {
+            "product_name": "ბრაზილია 08 - Default Title",
+            "product_price": 24.99,
+            "quantity": 1
+          },
+          {
+            "product_name": "გვატემალა 07 - Default Title",
+            "product_price": 24.99,
+            "quantity": 1
+          },
+          {
+            "product_name": "ეთიოპია 05 - Default Title",
+            "product_price": 24.99,
+            "quantity": 1
+          },
+          {
+            "product_name": "ბულდოგი - Default Title",
+            "product_price": 24.99,
+            "quantity": 1
+          }
+        ]
+      },
+      {
+        "order_id": 5978279608512,
+        "total_spent": 27.0,
+        "order_date": "2025-02-07T09:27:37+00:00",
+        "order_lines": [
+          {
+            "product_name": "გვატემალა 07 - Default Title",
+            "product_price": 24.99,
+            "quantity": 1
+          },
+          {
+            "product_name": "ბრაზილია 08 - Default Title",
+            "product_price": 24.99,
+            "quantity": 1
+          }
+        ]
+      },
+      {
+        "order_id": 5976910037184,
+        "total_spent": 5.27,
+        "order_date": "2025-02-06T10:19:23+00:00",
+        "order_lines": [
+          {
+            "product_name": "ტყის თხილი - Default Title",
+            "product_price": 25.99,
+            "quantity": 1
+          }
+        ]
+      },
+      {
+        "order_id": 5976907448512,
+        "total_spent": 5.27,
+        "order_date": "2025-02-06T10:13:25+00:00",
+        "order_lines": [
+          {
+            "product_name": "ტყის თხილი - Default Title",
+            "product_price": 25.99,
+            "quantity": 1
+          }
+        ]
+      }
+    ],
+    "historical_spending": 273.22,
+    "average_order_value": 11.38,
+    "total_orders": 24
+  },
+  {
+    "id": 7522436382912,
+    "email": "l.gvaberidze@meama.ge",
+    "created_at": "2024-10-07 09:31:46.000000 +00:00",
+    "historical_purchase_frequency": [
+      {
+        "order_id": 6288386621632,
+        "total_spent": 0.0,
+        "order_date": "2025-08-27T12:39:28+00:00",
+        "order_lines": [
+          {
+            "product_name": "ბრაზილია 08 - Tier Point - Default Title",
+            "product_price": 0.0,
+            "quantity": 3
+          }
+        ]
+      },
+      {
+        "order_id": 6277952766144,
+        "total_spent": 0.0,
+        "order_date": "2025-08-19T20:59:54+00:00",
+        "order_lines": [
+          {
+            "product_name": "MEAMA Explorer - 1 თვიანი პაკეტი - Default Title",
+            "product_price": 59.0,
+            "quantity": 1
+          }
+        ]
+      },
+      {
+        "order_id": 6276079714496,
+        "total_spent": 117.8,
+        "order_date": "2025-08-18T11:24:03+00:00",
+        "order_lines": [
+          {
+            "product_name": "MEAMA Ultimate - 1 თვიანი პაკეტი - Default Title",
+            "product_price": 259.0,
+            "quantity": 1
+          }
+        ]
+      },
+      {
+        "order_id": 6269543022784,
+        "total_spent": 0.0,
+        "order_date": "2025-08-13T09:46:51+00:00",
+        "order_lines": [
+          {
+            "product_name": "ბრაზილია 08 - Tier Point - Default Title",
+            "product_price": 0.0,
+            "quantity": 1
+          }
+        ]
+      },
+      {
+        "order_id": 6268301770944,
+        "total_spent": 0.0,
+        "order_date": "2025-08-12T12:37:32+00:00",
+        "order_lines": [
+          {
+            "product_name": "ბრაზილია 08 - Tier Point - Default Title",
+            "product_price": 0.0,
+            "quantity": 1
+          }
+        ]
+      },
+      {
+        "order_id": 6241758707904,
+        "total_spent": 0.0,
+        "order_date": "2025-07-24T13:04:42+00:00",
+        "order_lines": [
+          {
+            "product_name": "ყვითელი 04 - Tier Point - Default Title",
+            "product_price": 0.0,
+            "quantity": 1
+          }
+        ]
+      },
+      {
+        "order_id": 6241756217536,
+        "total_spent": 0.0,
+        "order_date": "2025-07-24T13:01:29+00:00",
+        "order_lines": [
+          {
+            "product_name": "კარკადე კენკრით - Tier Point - Default Title",
+            "product_price": 0.0,
+            "quantity": 1
+          },
+          {
+            "product_name": "ყვითელი 04 - Tier Point - Default Title",
+            "product_price": 0.0,
+            "quantity": 1
+          }
+        ]
+      },
+      {
+        "order_id": 6240176111808,
+        "total_spent": 0.0,
+        "order_date": "2025-07-23T12:55:23+00:00",
+        "order_lines": [
+          {
+            "product_name": "ყვითელი 04 - Tier Point - Default Title",
+            "product_price": 0.0,
+            "quantity": 2
+          }
+        ]
+      },
+      {
+        "order_id": 6205089120448,
+        "total_spent": 0.0,
+        "order_date": "2025-06-30T07:48:34+00:00",
+        "order_lines": [
+          {
+            "product_name": "ტყის თხილი - Default Title",
+            "product_price": 25.99,
+            "quantity": 1
+          }
+        ]
+      },
+      {
+        "order_id": 6197899493568,
+        "total_spent": 0.0,
+        "order_date": "2025-06-25T15:20:22+00:00",
+        "order_lines": [
+          {
+            "product_name": "იასამნისფერი 08 - Default Title",
+            "product_price": 20.99,
+            "quantity": 1
+          }
+        ]
+      },
+      {
+        "order_id": 6195106840768,
+        "total_spent": 89.95,
+        "order_date": "2025-06-23T13:54:03+00:00",
+        "order_lines": [
+          {
+            "product_name": "მწვანე 07 - Default Title",
+            "product_price": 20.99,
+            "quantity": 2
+          },
+          {
+            "product_name": "ლურჯი 05 - Default Title",
+            "product_price": 20.99,
+            "quantity": 1
+          },
+          {
+            "product_name": "წითელი 06 - Default Title",
+            "product_price": 20.99,
+            "quantity": 1
+          },
+          {
+            "product_name": "უკოფეინო - Default Title",
+            "product_price": 20.99,
+            "quantity": 1
+          }
+        ]
+      },
+      {
+        "order_id": 6175072190656,
+        "total_spent": 0.0,
+        "order_date": "2025-06-09T06:46:25+00:00",
+        "order_lines": [
+          {
+            "product_name": "ყვითელი 04 - Free - Default Title",
+            "product_price": 0.0,
+            "quantity": 1
+          }
+        ]
+      },
+      {
+        "order_id": 6175071764672,
+        "total_spent": 0.0,
+        "order_date": "2025-06-09T06:45:16+00:00",
+        "order_lines": [
+          {
+            "product_name": "მწვანე 07 - Free - Default Title",
+            "product_price": 0.0,
+            "quantity": 1
+          }
+        ]
+      },
+      {
+        "order_id": 6175071207616,
+        "total_spent": 0.0,
+        "order_date": "2025-06-09T06:44:22+00:00",
+        "order_lines": [
+          {
+            "product_name": "ბულდოგი - Free - Default Title",
+            "product_price": 0.0,
+            "quantity": 1
+          }
+        ]
+      },
+      {
+        "order_id": 6175063179456,
+        "total_spent": 0.0,
+        "order_date": "2025-06-09T06:30:34+00:00",
+        "order_lines": [
+          {
+            "product_name": "ვანილი - Free - Default Title",
+            "product_price": 0.0,
+            "quantity": 1
+          }
+        ]
+      },
+      {
+        "order_id": 6175062425792,
+        "total_spent": 0.0,
+        "order_date": "2025-06-09T06:29:00+00:00",
+        "order_lines": [
+          {
+            "product_name": "წითელი 06 - Free - Default Title",
+            "product_price": 0.0,
+            "quantity": 1
+          }
+        ]
+      },
+      {
+        "order_id": 6158727315648,
+        "total_spent": 8.0,
+        "order_date": "2025-06-01T16:55:11+00:00",
+        "order_lines": [
+          {
+            "product_name": "ფაიფურის ჭიქა - ყვითელი - Default Title",
+            "product_price": 8.0,
+            "quantity": 1
+          }
+        ]
+      },
+      {
+        "order_id": 6149824544960,
+        "total_spent": 0.0,
+        "order_date": "2025-05-26T09:22:27+00:00",
+        "order_lines": [
+          {
+            "product_name": "პატარა ჭიქა - Vending - Default Title",
+            "product_price": 0.0,
+            "quantity": 2
+          },
+          {
+            "product_name": "შაქარი - Vending - Default Title",
+            "product_price": 0.0,
+            "quantity": 6
+          },
+          {
+            "product_name": "ტყის თხილი შოკოლადი - Free - Default Title",
+            "product_price": 0.0,
+            "quantity": 2
+          }
+        ]
+      },
+      {
+        "order_id": 6143118901440,
+        "total_spent": 24.0,
+        "order_date": "2025-05-21T14:02:36+00:00",
+        "order_lines": [
+          {
+            "product_name": "ტყის თხილი - Default Title",
+            "product_price": 25.99,
+            "quantity": 1
+          },
+          {
+            "product_name": "კარამელი - Default Title",
+            "product_price": 25.99,
+            "quantity": 1
+          }
+        ]
+      },
+      {
+        "order_id": 6142961746112,
+        "total_spent": 0.0,
+        "order_date": "2025-05-21T10:21:31+00:00",
+        "order_lines": [
+          {
+            "product_name": "ლურჯი 05 - Vending - ლურჯი 05 - Vending 1 Gel",
+            "product_price": 1.0,
+            "quantity": 1
+          }
+        ]
+      },
+      {
+        "order_id": 6141839802560,
+        "total_spent": 0.0,
+        "order_date": "2025-05-20T13:20:19+00:00",
+        "order_lines": [
+          {
+            "product_name": "პატარა ჭიქა - Vending - Default Title",
+            "product_price": 0.0,
+            "quantity": 1
+          },
+          {
+            "product_name": "შაქარი - Vending - Default Title",
+            "product_price": 0.0,
+            "quantity": 3
+          },
+          {
+            "product_name": "ლურჯი 05 - Free - Default Title",
+            "product_price": 0.0,
+            "quantity": 1
+          }
+        ]
+      },
+      {
+        "order_id": 6141825974464,
+        "total_spent": 0.0,
+        "order_date": "2025-05-20T13:07:05+00:00",
+        "order_lines": [
+          {
+            "product_name": "ლურჯი 05 - Free - Default Title",
+            "product_price": 0.0,
+            "quantity": 1
+          }
+        ]
+      },
+      {
+        "order_id": 6139180286144,
+        "total_spent": 0.0,
+        "order_date": "2025-05-18T11:11:10+00:00",
+        "order_lines": [
+          {
+            "product_name": "დიდი ჭიქა - Vending - Default Title",
+            "product_price": 0.0,
+            "quantity": 2
+          },
+          {
+            "product_name": "პატარა ჭიქა - Vending - Default Title",
+            "product_price": 0.0,
+            "quantity": 1
+          },
+          {
+            "product_name": "შაქარი - Vending - Default Title",
+            "product_price": 0.0,
+            "quantity": 1
+          },
+          {
+            "product_name": "ბრაზილია 08 - Free - Default Title",
+            "product_price": 0.0,
+            "quantity": 2
+          },
+          {
+            "product_name": "ვანილი - Free - Default Title",
+            "product_price": 0.0,
+            "quantity": 1
+          }
+        ]
+      },
+      {
+        "order_id": 6102907158720,
+        "total_spent": 0.0,
+        "order_date": "2025-04-27T16:10:44+00:00",
+        "order_lines": [
+          {
+            "product_name": "დიდი ჭიქა - Vending - Default Title",
+            "product_price": 0.0,
+            "quantity": 1
+          },
+          {
+            "product_name": "პატარა ჭიქა - Vending - Default Title",
+            "product_price": 0.0,
+            "quantity": 1
+          },
+          {
+            "product_name": "შაქარი - Vending - Default Title",
+            "product_price": 0.0,
+            "quantity": 1
+          },
+          {
+            "product_name": "კარკადე კენკრით - Free - Default Title",
+            "product_price": 0.0,
+            "quantity": 1
+          },
+          {
+            "product_name": "მწვანე 07 - Free - Default Title",
+            "product_price": 0.0,
+            "quantity": 1
+          }
+        ]
+      },
+      {
+        "order_id": 6086090162368,
+        "total_spent": 0.0,
+        "order_date": "2025-04-19T10:05:33+00:00",
+        "order_lines": [
+          {
+            "product_name": "კარკადე კენკრით - Free - Default Title",
+            "product_price": 0.0,
+            "quantity": 1
+          }
+        ]
+      },
+      {
+        "order_id": 6070778200256,
+        "total_spent": 0.0,
+        "order_date": "2025-04-09T22:39:46+00:00",
+        "order_lines": [
+          {
+            "product_name": "ტყის თხილი - Free - Default Title",
+            "product_price": 0.0,
+            "quantity": 3
+          }
+        ]
+      },
+      {
+        "order_id": 6070724100288,
+        "total_spent": 0.0,
+        "order_date": "2025-04-09T21:50:23+00:00",
+        "order_lines": [
+          {
+            "product_name": "ტყის თხილი - Free - Default Title",
+            "product_price": 0.0,
+            "quantity": 3
+          }
+        ]
+      },
+      {
+        "order_id": 6070705782976,
+        "total_spent": 0.0,
+        "order_date": "2025-04-09T21:33:42+00:00",
+        "order_lines": [
+          {
+            "product_name": "ტყის თხილი - Free - Default Title",
+            "product_price": 0.0,
+            "quantity": 3
+          }
+        ]
+      },
+      {
+        "order_id": 6070702080192,
+        "total_spent": 0.0,
+        "order_date": "2025-04-09T21:30:18+00:00",
+        "order_lines": [
+          {
+            "product_name": "ტყის თხილი - Free - Default Title",
+            "product_price": 0.0,
+            "quantity": 1
+          }
+        ]
+      },
+      {
+        "order_id": 6070669312192,
+        "total_spent": 0.0,
+        "order_date": "2025-04-09T21:00:07+00:00",
+        "order_lines": [
+          {
+            "product_name": "ტყის თხილი - Free - Default Title",
+            "product_price": 0.0,
+            "quantity": 3
+          }
+        ]
+      },
+      {
+        "order_id": 6070667346112,
+        "total_spent": 0.0,
+        "order_date": "2025-04-09T20:58:23+00:00",
+        "order_lines": [
+          {
+            "product_name": "ტყის თხილი - Free - Default Title",
+            "product_price": 0.0,
+            "quantity": 3
+          }
+        ]
+      },
+      {
+        "order_id": 6070468870336,
+        "total_spent": 0.0,
+        "order_date": "2025-04-09T17:44:18+00:00",
+        "order_lines": [
+          {
+            "product_name": "ტყის თხილი - Free - Default Title",
+            "product_price": 0.0,
+            "quantity": 3
+          }
+        ]
+      },
+      {
+        "order_id": 6070468182208,
+        "total_spent": 0.0,
+        "order_date": "2025-04-09T17:43:53+00:00",
+        "order_lines": [
+          {
+            "product_name": "ტყის თხილი - Free - Default Title",
+            "product_price": 0.0,
+            "quantity": 2
+          }
+        ]
+      },
+      {
+        "order_id": 6066352947392,
+        "total_spent": 0.0,
+        "order_date": "2025-04-06T12:38:40+00:00",
+        "order_lines": [
+          {
+            "product_name": "მწვანე 07 - Free - Default Title",
+            "product_price": 0.0,
+            "quantity": 1
+          }
+        ]
+      },
+      {
+        "order_id": 6066351669440,
+        "total_spent": 0.0,
+        "order_date": "2025-04-06T12:36:33+00:00",
+        "order_lines": [
+          {
+            "product_name": "პატარა ჭიქა - Vending - Default Title",
+            "product_price": 0.0,
+            "quantity": 3
+          },
+          {
+            "product_name": "შაქარი - Vending - Default Title",
+            "product_price": 0.0,
+            "quantity": 4
+          },
+          {
+            "product_name": "მწვანე 07 - Free - Default Title",
+            "product_price": 0.0,
+            "quantity": 3
+          }
+        ]
+      },
+      {
+        "order_id": 6057139437760,
+        "total_spent": 0.0,
+        "order_date": "2025-04-04T10:10:59+00:00",
+        "order_lines": [
+          {
+            "product_name": "ტყის თხილი - Free - Default Title",
+            "product_price": 0.0,
+            "quantity": 3
+          }
+        ]
+      },
+      {
+        "order_id": 6057139241152,
+        "total_spent": 0.0,
+        "order_date": "2025-04-04T10:10:44+00:00",
+        "order_lines": [
+          {
+            "product_name": "ტყის თხილი - Free - Default Title",
+            "product_price": 0.0,
+            "quantity": 2
+          }
+        ]
+      },
+      {
+        "order_id": 6057136914624,
+        "total_spent": 0.0,
+        "order_date": "2025-04-04T10:07:05+00:00",
+        "order_lines": [
+          {
+            "product_name": "ტყის თხილი - Free - Default Title",
+            "product_price": 0.0,
+            "quantity": 3
+          }
+        ]
+      },
+      {
+        "order_id": 6057136652480,
+        "total_spent": 0.0,
+        "order_date": "2025-04-04T10:06:31+00:00",
+        "order_lines": [
+          {
+            "product_name": "დიდი ჭიქა - Vending - Default Title",
+            "product_price": 0.0,
+            "quantity": 1
+          },
+          {
+            "product_name": "ტყის თხილი - Free - Default Title",
+            "product_price": 0.0,
+            "quantity": 2
+          }
+        ]
+      },
+      {
+        "order_id": 6055749976256,
+        "total_spent": 0.0,
+        "order_date": "2025-04-03T09:14:56+00:00",
+        "order_lines": [
+          {
+            "product_name": "პატარა ჭიქა - Vending - Default Title",
+            "product_price": 0.0,
+            "quantity": 2
+          },
+          {
+            "product_name": "შაქარი - Vending - Default Title",
+            "product_price": 0.0,
+            "quantity": 6
+          },
+          {
+            "product_name": "ტყის თხილი შოკოლადი - Free - Default Title",
+            "product_price": 0.0,
+            "quantity": 2
+          }
+        ]
+      },
+      {
+        "order_id": 6046704697536,
+        "total_spent": 0.0,
+        "order_date": "2025-03-28T11:06:51+00:00",
+        "order_lines": [
+          {
+            "product_name": "პატარა ჭიქა - Vending - Default Title",
+            "product_price": 0.0,
+            "quantity": 1
+          },
+          {
+            "product_name": "ტყის თხილი - Free - Default Title",
+            "product_price": 0.0,
+            "quantity": 1
+          }
+        ]
+      },
+      {
+        "order_id": 6046592532672,
+        "total_spent": 0.0,
+        "order_date": "2025-03-28T08:07:02+00:00",
+        "order_lines": [
+          {
+            "product_name": "პატარა ჭიქა - Vending - Default Title",
+            "product_price": 0.0,
+            "quantity": 1
+          },
+          {
+            "product_name": "ტყის თხილი - Free - Default Title",
+            "product_price": 0.0,
+            "quantity": 1
+          }
+        ]
+      },
+      {
+        "order_id": 6019812851904,
+        "total_spent": 0.0,
+        "order_date": "2025-03-10T07:52:38+00:00",
+        "order_lines": [
+          {
+            "product_name": "პატარა ჭიქა - Vending - Default Title",
+            "product_price": 0.0,
+            "quantity": 1
+          },
+          {
+            "product_name": "შაქარი - Vending - Default Title",
+            "product_price": 0.0,
+            "quantity": 3
+          },
+          {
+            "product_name": "ბურგუნდი 09 - Free - Default Title",
+            "product_price": 0.0,
+            "quantity": 1
+          }
+        ]
+      },
+      {
+        "order_id": 6017382809792,
+        "total_spent": 20.0,
+        "order_date": "2025-03-08T12:04:22+00:00",
+        "order_lines": [
+          {
+            "product_name": "მილკას შოკოლადის ნაკრები რძით - Default Title",
+            "product_price": 10.0,
+            "quantity": 2
+          },
+          {
+            "product_name": "მილკას შოკოლადის ნაკრები კაკაოთი - Default Title",
+            "product_price": 10.0,
+            "quantity": 2
+          }
+        ]
+      },
+      {
+        "order_id": 6016200868032,
+        "total_spent": 0.0,
+        "order_date": "2025-03-07T15:22:26+00:00",
+        "order_lines": [
+          {
+            "product_name": "კარკადე კენკრით - Free - Default Title",
+            "product_price": 0.0,
+            "quantity": 1
+          }
+        ]
+      },
+      {
+        "order_id": 6010874724544,
+        "total_spent": 0.0,
+        "order_date": "2025-03-03T10:12:22+00:00",
+        "order_lines": [
+          {
+            "product_name": "პატარა ჭიქა - Vending - Default Title",
+            "product_price": 0.0,
+            "quantity": 1
+          },
+          {
+            "product_name": "ბურგუნდი 09 - Free - Default Title",
+            "product_price": 0.0,
+            "quantity": 1
+          }
+        ]
+      },
+      {
+        "order_id": 6008346640576,
+        "total_spent": 0.0,
+        "order_date": "2025-03-01T09:06:31+00:00",
+        "order_lines": [
+          {
+            "product_name": "პატარა ჭიქა - Vending - Default Title",
+            "product_price": 0.0,
+            "quantity": 1
+          },
+          {
+            "product_name": "ტყის თხილი შოკოლადი - Free - Default Title",
+            "product_price": 0.0,
+            "quantity": 1
+          }
+        ]
+      },
+      {
+        "order_id": 6008327635136,
+        "total_spent": 0.0,
+        "order_date": "2025-03-01T08:25:13+00:00",
+        "order_lines": [
+          {
+            "product_name": "პატარა ჭიქა - Vending - Default Title",
+            "product_price": 0.0,
+            "quantity": 2
+          },
+          {
+            "product_name": "მაკაპუნო ქოქოსი - Free - Default Title",
+            "product_price": 0.0,
+            "quantity": 3
+          }
+        ]
+      },
+      {
+        "order_id": 6008327143616,
+        "total_spent": 0.0,
+        "order_date": "2025-03-01T08:23:45+00:00",
+        "order_lines": [
+          {
+            "product_name": "პატარა ჭიქა - Vending - Default Title",
+            "product_price": 0.0,
+            "quantity": 3
+          },
+          {
+            "product_name": "შაქარი - Vending - Default Title",
+            "product_price": 0.0,
+            "quantity": 3
+          },
+          {
+            "product_name": "ბურგუნდი 09 - Free - Default Title",
+            "product_price": 0.0,
+            "quantity": 3
+          }
+        ]
+      },
+      {
+        "order_id": 6008326815936,
+        "total_spent": 0.0,
+        "order_date": "2025-03-01T08:22:51+00:00",
+        "order_lines": [
+          {
+            "product_name": "პატარა ჭიქა - Vending - Default Title",
+            "product_price": 0.0,
+            "quantity": 1
+          },
+          {
+            "product_name": "ბურგუნდი 09 - Free - Default Title",
+            "product_price": 0.0,
+            "quantity": 3
+          }
+        ]
+      },
+      {
+        "order_id": 6008326324416,
+        "total_spent": 0.0,
+        "order_date": "2025-03-01T08:21:43+00:00",
+        "order_lines": [
+          {
+            "product_name": "დიდი ჭიქა - Vending - Default Title",
+            "product_price": 0.0,
+            "quantity": 3
+          },
+          {
+            "product_name": "ტყის თხილი შოკოლადი - Free - Default Title",
+            "product_price": 0.0,
+            "quantity": 3
+          }
+        ]
+      },
+      {
+        "order_id": 6008325734592,
+        "total_spent": 0.0,
+        "order_date": "2025-03-01T08:20:20+00:00",
+        "order_lines": [
+          {
+            "product_name": "დიდი ჭიქა - Vending - Default Title",
+            "product_price": 0.0,
+            "quantity": 3
+          },
+          {
+            "product_name": "შაქარი - Vending - Default Title",
+            "product_price": 0.0,
+            "quantity": 9
+          },
+          {
+            "product_name": "ვანილი - Free - Default Title",
+            "product_price": 0.0,
+            "quantity": 3
+          }
+        ]
+      },
+      {
+        "order_id": 6008324391104,
+        "total_spent": 0.0,
+        "order_date": "2025-03-01T08:17:05+00:00",
+        "order_lines": [
+          {
+            "product_name": "პატარა ჭიქა - Vending - Default Title",
+            "product_price": 0.0,
+            "quantity": 1
+          },
+          {
+            "product_name": "შაქარი - Vending - Default Title",
+            "product_price": 0.0,
+            "quantity": 3
+          },
+          {
+            "product_name": "ბურგუნდი 09 - Free - Default Title",
+            "product_price": 0.0,
+            "quantity": 1
+          }
+        ]
+      },
+      {
+        "order_id": 6008320819392,
+        "total_spent": 0.0,
+        "order_date": "2025-03-01T08:10:36+00:00",
+        "order_lines": [
+          {
+            "product_name": "პატარა ჭიქა - Vending - Default Title",
+            "product_price": 0.0,
+            "quantity": 3
+          },
+          {
+            "product_name": "შაქარი - Vending - Default Title",
+            "product_price": 0.0,
+            "quantity": 9
+          },
+          {
+            "product_name": "ტყის თხილი შოკოლადი - Free - Default Title",
+            "product_price": 0.0,
+            "quantity": 3
+          }
+        ]
+      },
+      {
+        "order_id": 6008319443136,
+        "total_spent": 0.0,
+        "order_date": "2025-03-01T08:09:58+00:00",
+        "order_lines": [
+          {
+            "product_name": "პატარა ჭიქა - Vending - Default Title",
+            "product_price": 0.0,
+            "quantity": 3
+          },
+          {
+            "product_name": "შაქარი - Vending - Default Title",
+            "product_price": 0.0,
+            "quantity": 9
+          },
+          {
+            "product_name": "ტყის თხილი - Free - Default Title",
+            "product_price": 0.0,
+            "quantity": 3
+          }
+        ]
+      },
+      {
+        "order_id": 6008285429952,
+        "total_spent": 0.0,
+        "order_date": "2025-03-01T07:15:43+00:00",
+        "order_lines": [
+          {
+            "product_name": "პატარა ჭიქა - Vending - Default Title",
+            "product_price": 0.0,
+            "quantity": 1
+          },
+          {
+            "product_name": "შაქარი - Vending - Default Title",
+            "product_price": 0.0,
+            "quantity": 3
+          },
+          {
+            "product_name": "ყვითელი 04 - Free - Default Title",
+            "product_price": 0.0,
+            "quantity": 1
+          }
+        ]
+      },
+      {
+        "order_id": 6008284905664,
+        "total_spent": 0.0,
+        "order_date": "2025-03-01T07:14:38+00:00",
+        "order_lines": [
+          {
+            "product_name": "პატარა ჭიქა - Vending - Default Title",
+            "product_price": 0.0,
+            "quantity": 1
+          },
+          {
+            "product_name": "ყვითელი 04 - Free - Default Title",
+            "product_price": 0.0,
+            "quantity": 1
+          }
+        ]
+      },
+      {
+        "order_id": 6008284446912,
+        "total_spent": 0.0,
+        "order_date": "2025-03-01T07:13:50+00:00",
+        "order_lines": [
+          {
+            "product_name": "პატარა ჭიქა - Vending - Default Title",
+            "product_price": 0.0,
+            "quantity": 1
+          },
+          {
+            "product_name": "შაქარი - Vending - Default Title",
+            "product_price": 0.0,
+            "quantity": 3
+          },
+          {
+            "product_name": "ბურგუნდი 09 - Free - Default Title",
+            "product_price": 0.0,
+            "quantity": 1
+          }
+        ]
+      },
+      {
+        "order_id": 5997479559360,
+        "total_spent": 2.25,
+        "order_date": "2025-02-21T10:04:17+00:00",
+        "order_lines": [
+          {
+            "product_name": "Unknown Product",
+            "product_price": null,
+            "quantity": 1
+          }
+        ]
+      },
+      {
+        "order_id": 5996486918336,
+        "total_spent": 0.0,
+        "order_date": "2025-02-20T16:40:00+00:00",
+        "order_lines": [
+          {
+            "product_name": "ბურგუნდი 09 - Free - Default Title",
+            "product_price": 0.0,
+            "quantity": 1
+          }
+        ]
+      },
+      {
+        "order_id": 5996485836992,
+        "total_spent": 0.0,
+        "order_date": "2025-02-20T16:38:57+00:00",
+        "order_lines": [
+          {
+            "product_name": "ტყის თხილი - Free - Default Title",
+            "product_price": 0.0,
+            "quantity": 1
+          },
+          {
+            "product_name": "ბურგუნდი 09 - Free - Default Title",
+            "product_price": 0.0,
+            "quantity": 1
+          }
+        ]
+      },
+      {
+        "order_id": 5996191973568,
+        "total_spent": 2.25,
+        "order_date": "2025-02-20T12:04:11+00:00",
+        "order_lines": [
+          {
+            "product_name": "პატარა ჭიქა - Vending - Default Title",
+            "product_price": 0.0,
+            "quantity": 1
+          },
+          {
+            "product_name": "შაქარი - Vending - Default Title",
+            "product_price": 0.0,
+            "quantity": 3
+          },
+          {
+            "product_name": "Unknown Product",
+            "product_price": null,
+            "quantity": 1
+          }
+        ]
+      },
+      {
+        "order_id": 5991139344576,
+        "total_spent": 0.0,
+        "order_date": "2025-02-16T12:28:55+00:00",
+        "order_lines": [
+          {
+            "product_name": "ეთიოპია 05 - Default Title",
+            "product_price": 24.99,
+            "quantity": 5
+          }
+        ]
+      },
+      {
+        "order_id": 5988649402560,
+        "total_spent": 2.25,
+        "order_date": "2025-02-14T15:32:04+00:00",
+        "order_lines": [
+          {
+            "product_name": "Unknown Product",
+            "product_price": null,
+            "quantity": 1
+          }
+        ]
+      },
+      {
+        "order_id": 5988448010432,
+        "total_spent": 0.0,
+        "order_date": "2025-02-14T11:38:36+00:00",
+        "order_lines": [
+          {
+            "product_name": "ეთიოპია 05 - Default Title",
+            "product_price": 24.99,
+            "quantity": 1
+          }
+        ]
+      },
+      {
+        "order_id": 5985345667264,
+        "total_spent": 2.25,
+        "order_date": "2025-02-12T07:06:30+00:00",
+        "order_lines": [
+          {
+            "product_name": "პატარა ჭიქა - Vending - Default Title",
+            "product_price": 0.0,
+            "quantity": 1
+          },
+          {
+            "product_name": "შაქარი - Vending - Default Title",
+            "product_price": 0.0,
+            "quantity": 3
+          },
+          {
+            "product_name": "Unknown Product",
+            "product_price": null,
+            "quantity": 1
+          }
+        ]
+      },
+      {
+        "order_id": 5984249643200,
+        "total_spent": 0.0,
+        "order_date": "2025-02-11T11:54:30+00:00",
+        "order_lines": [
+          {
+            "product_name": "ტყის თხილი შოკოლადი - Free - Default Title",
+            "product_price": 0.0,
+            "quantity": 2
+          }
+        ]
+      },
+      {
+        "order_id": 5984249249984,
+        "total_spent": 0.0,
+        "order_date": "2025-02-11T11:53:49+00:00",
+        "order_lines": [
+          {
+            "product_name": "ტყის თხილი შოკოლადი - Free - Default Title",
+            "product_price": 0.0,
+            "quantity": 3
+          }
+        ]
+      },
+      {
+        "order_id": 5980340814016,
+        "total_spent": 0.0,
+        "order_date": "2025-02-08T12:56:22+00:00",
+        "order_lines": [
+          {
+            "product_name": "პატარა ჭიქა - Vending - Default Title",
+            "product_price": 0.0,
+            "quantity": 1
+          },
+          {
+            "product_name": "ტყის თხილი - Free - Default Title",
+            "product_price": 0.0,
+            "quantity": 1
+          }
+        ]
+      },
+      {
+        "order_id": 5980339437760,
+        "total_spent": 0.0,
+        "order_date": "2025-02-08T12:54:05+00:00",
+        "order_lines": [
+          {
+            "product_name": "პატარა ჭიქა - Vending - Default Title",
+            "product_price": 0.0,
+            "quantity": 1
+          },
+          {
+            "product_name": "ტყის თხილი - Free - Default Title",
+            "product_price": 0.0,
+            "quantity": 1
+          }
+        ]
+      },
+      {
+        "order_id": 5977097633984,
+        "total_spent": 3.81,
+        "order_date": "2025-02-06T14:24:06+00:00",
+        "order_lines": [
+          {
+            "product_name": "დღის შეთავაზება - Default Title",
+            "product_price": 4.5,
+            "quantity": 1
+          }
+        ]
+      },
+      {
+        "order_id": 5912724996288,
+        "total_spent": 5.0,
+        "order_date": "2025-01-19T15:20:19+00:00",
+        "order_lines": [
+          {
+            "product_name": "მილკას შოკოლადის ნაკრები რძით - Default Title",
+            "product_price": 10.0,
+            "quantity": 1
+          }
+        ]
+      },
+      {
+        "order_id": 5891537993920,
+        "total_spent": 49.5,
+        "order_date": "2025-01-03T16:07:49+00:00",
+        "order_lines": [
+          {
+            "product_name": "იასამნისფერი 08 - Default Title",
+            "product_price": 20.99,
+            "quantity": 1
+          },
+          {
+            "product_name": "ბურგუნდი 09 - Default Title",
+            "product_price": 20.99,
+            "quantity": 1
+          },
+          {
+            "product_name": "ტყის თხილი შოკოლადი - Default Title",
+            "product_price": 21.99,
+            "quantity": 1
+          },
+          {
+            "product_name": "ტყის თხილი - Default Title",
+            "product_price": 21.99,
+            "quantity": 1
+          },
+          {
+            "product_name": "ლურჯი 05 - Default Title",
+            "product_price": 20.99,
+            "quantity": 1
+          }
+        ]
+      },
+      {
+        "order_id": 5881000001728,
+        "total_spent": 39.6,
+        "order_date": "2024-12-30T09:00:21+00:00",
+        "order_lines": [
+          {
+            "product_name": "მწვანე 07 - Default Title",
+            "product_price": 20.99,
+            "quantity": 2
+          },
+          {
+            "product_name": "ბურგუნდი 09 - Default Title",
+            "product_price": 20.99,
+            "quantity": 2
+          }
+        ]
+      },
+      {
+        "order_id": 5877536391360,
+        "total_spent": 8.0,
+        "order_date": "2024-12-27T16:41:23+00:00",
+        "order_lines": [
+          {
+            "product_name": "ფაიფურის ჭიქა - ყვითელი - Default Title",
+            "product_price": 8.0,
+            "quantity": 1
+          }
+        ]
+      },
+      {
+        "order_id": 5875018956992,
+        "total_spent": 41.58,
+        "order_date": "2024-12-25T19:23:44+00:00",
+        "order_lines": [
+          {
+            "product_name": "მწვანე 07 - Default Title",
+            "product_price": 20.99,
+            "quantity": 2
+          },
+          {
+            "product_name": "იასამნისფერი 08 - Default Title",
+            "product_price": 20.99,
+            "quantity": 1
+          },
+          {
+            "product_name": "კარკადე კენკრით - Default Title",
+            "product_price": 22.99,
+            "quantity": 1
+          }
+        ]
+      },
+      {
+        "order_id": 5848821334208,
+        "total_spent": 5.0,
+        "order_date": "2024-12-22T16:47:23+00:00",
+        "order_lines": [
+          {
+            "product_name": "მილკას შოკოლადის ნაკრები კაკაოთი - Default Title",
+            "product_price": 10.0,
+            "quantity": 1
+          }
+        ]
+      },
+      {
+        "order_id": 5846137864384,
+        "total_spent": 148.5,
+        "order_date": "2024-12-20T17:12:59+00:00",
+        "order_lines": [
+          {
+            "product_name": "ბურგუნდი 09 - Default Title",
+            "product_price": 20.99,
+            "quantity": 9
+          },
+          {
+            "product_name": "Unknown Product",
+            "product_price": null,
+            "quantity": 4
+          },
+          {
+            "product_name": "ტყის თხილი შოკოლადი - Default Title",
+            "product_price": 21.99,
+            "quantity": 2
+          }
+        ]
+      },
+      {
+        "order_id": 5843915768000,
+        "total_spent": 20.0,
+        "order_date": "2024-12-19T07:01:09+00:00",
+        "order_lines": [
+          {
+            "product_name": "მეტალის ჭიქა - ვარდისფერი / 160მლ",
+            "product_price": 29.99,
+            "quantity": 1
+          }
+        ]
+      },
+      {
+        "order_id": 5843913801920,
+        "total_spent": 20.0,
+        "order_date": "2024-12-19T06:57:05+00:00",
+        "order_lines": [
+          {
+            "product_name": "მეტალის ჭიქა - იასამნისფერი / 160მლ",
+            "product_price": 29.99,
+            "quantity": 1
+          }
+        ]
+      },
+      {
+        "order_id": 5836223119552,
+        "total_spent": 19.8,
+        "order_date": "2024-12-14T06:14:32+00:00",
+        "order_lines": [
+          {
+            "product_name": "მწვანე 07 - Default Title",
+            "product_price": 20.99,
+            "quantity": 1
+          },
+          {
+            "product_name": "ბურგუნდი 09 - Default Title",
+            "product_price": 20.99,
+            "quantity": 1
+          }
+        ]
+      },
+      {
+        "order_id": 5808387555520,
+        "total_spent": 45.0,
+        "order_date": "2024-12-03T13:02:06+00:00",
+        "order_lines": [
+          {
+            "product_name": "მწვანე 07 - Default Title",
+            "product_price": 20.99,
+            "quantity": 4
+          }
+        ]
+      },
+      {
+        "order_id": 5752498946240,
+        "total_spent": 0.0,
+        "order_date": "2024-11-01T09:36:22+00:00",
+        "order_lines": [
+          {
+            "product_name": "ტყის თხილი - Default Title",
+            "product_price": 25.99,
+            "quantity": 1
+          }
+        ]
+      },
+      {
+        "order_id": 5752498028736,
+        "total_spent": 0.0,
+        "order_date": "2024-11-01T09:34:08+00:00",
+        "order_lines": [
+          {
+            "product_name": "ტყის თხილი - Default Title",
+            "product_price": 25.99,
+            "quantity": 1
+          }
+        ]
+      },
+      {
+        "order_id": 5752486756544,
+        "total_spent": 0.0,
+        "order_date": "2024-11-01T09:07:52+00:00",
+        "order_lines": [
+          {
+            "product_name": "ტყის თხილი - Default Title",
+            "product_price": 25.99,
+            "quantity": 1
+          }
+        ]
+      },
+      {
+        "order_id": 5752473944256,
+        "total_spent": 0.0,
+        "order_date": "2024-11-01T08:39:32+00:00",
+        "order_lines": [
+          {
+            "product_name": "იასამნისფერი 08 - Default Title",
+            "product_price": 20.99,
+            "quantity": 1
+          }
+        ]
+      },
+      {
+        "order_id": 5752472928448,
+        "total_spent": 0.0,
+        "order_date": "2024-11-01T08:37:23+00:00",
+        "order_lines": [
+          {
+            "product_name": "ტყის თხილი - Default Title",
+            "product_price": 25.99,
+            "quantity": 1
+          }
+        ]
+      },
+      {
+        "order_id": 5743320924352,
+        "total_spent": 0.0,
+        "order_date": "2024-10-25T12:29:15+00:00",
+        "order_lines": [
+          {
+            "product_name": "ტყის თხილი - Default Title",
+            "product_price": 25.99,
+            "quantity": 1
+          }
+        ]
+      },
+      {
+        "order_id": 5743318204608,
+        "total_spent": 0.0,
+        "order_date": "2024-10-25T12:25:36+00:00",
+        "order_lines": [
+          {
+            "product_name": "ტყის თხილი - Default Title",
+            "product_price": 25.99,
+            "quantity": 1
+          }
+        ]
+      },
+      {
+        "order_id": 5743250473152,
+        "total_spent": 0.0,
+        "order_date": "2024-10-25T11:02:32+00:00",
+        "order_lines": [
+          {
+            "product_name": "ბულდოგი - Default Title",
+            "product_price": 24.99,
+            "quantity": 1
+          }
+        ]
+      }
+    ],
+    "historical_spending": 674.54,
+    "average_order_value": 7.49,
+    "total_orders": 90
+  },
+  {
+    "id": 7570443600064,
+    "email": "995595445170@customers.meama.ge",
+    "created_at": "2024-10-23 14:30:19.000000 +00:00",
+    "historical_purchase_frequency": [
+      {
+        "order_id": 6282845651136,
+        "total_spent": 46.98,
+        "order_date": "2025-08-23T14:02:56+00:00",
+        "order_lines": [
+          {
+            "product_name": "ტყის თხილი - Default Title",
+            "product_price": 25.99,
+            "quantity": 2
+          }
+        ]
+      },
+      {
+        "order_id": 6234416513216,
+        "total_spent": 75.47,
+        "order_date": "2025-07-19T06:56:29+00:00",
+        "order_lines": [
+          {
+            "product_name": "ნალექიანი ყავა: მექსიკა - Default Title",
+            "product_price": 8.99,
+            "quantity": 1
+          },
+          {
+            "product_name": "ნალექიანი ყავა: ბრაზილია და მექსიკა - Default Title",
+            "product_price": 6.49,
+            "quantity": 1
+          },
+          {
+            "product_name": "ორმაგი მინის ჭიქა 250 მლ (2 ცალი) - ლურჯი",
+            "product_price": 59.99,
+            "quantity": 1
+          }
+        ]
+      },
+      {
+        "order_id": 6223892676800,
+        "total_spent": 74.97,
+        "order_date": "2025-07-11T17:15:28+00:00",
+        "order_lines": [
+          {
+            "product_name": "ელ-სალვადორი 04 - Default Title",
+            "product_price": 24.99,
+            "quantity": 2
+          },
+          {
+            "product_name": "კოლუმბია 03 - Default Title",
+            "product_price": 24.99,
+            "quantity": 1
+          },
+          {
+            "product_name": "მეტალის ჭიქა 280 მლ - მენთოლი",
+            "product_price": 39.99,
+            "quantity": 1
+          }
+        ]
+      },
+      {
+        "order_id": 6211197862080,
+        "total_spent": 103.96,
+        "order_date": "2025-07-04T09:56:58+00:00",
+        "order_lines": [
+          {
+            "product_name": "ტყის თხილი - Default Title",
+            "product_price": 25.99,
+            "quantity": 1
+          },
+          {
+            "product_name": "ტყის თხილი შოკოლადით - Default Title",
+            "product_price": 25.99,
+            "quantity": 2
+          },
+          {
+            "product_name": "მაკაპუნო ქოქოსი - Default Title",
+            "product_price": 25.99,
+            "quantity": 1
+          },
+          {
+            "product_name": "მეტალის ჭიქა 280 მლ - თეთრი",
+            "product_price": 39.99,
+            "quantity": 1
+          }
+        ]
+      },
+      {
+        "order_id": 6207289426112,
+        "total_spent": 76.97,
+        "order_date": "2025-07-01T16:52:40+00:00",
+        "order_lines": [
+          {
+            "product_name": "მეტალის ჭიქა 280 მლ - თეთრი",
+            "product_price": 39.99,
+            "quantity": 1
+          },
+          {
+            "product_name": "ირლანდიური ყავა - Default Title",
+            "product_price": 25.99,
+            "quantity": 1
+          },
+          {
+            "product_name": "ტყის თხილი - Default Title",
+            "product_price": 25.99,
+            "quantity": 1
+          },
+          {
+            "product_name": "ეთიოპია 05 - Default Title",
+            "product_price": 24.99,
+            "quantity": 1
+          }
+        ]
+      },
+      {
+        "order_id": 6200939118784,
+        "total_spent": 46.98,
+        "order_date": "2025-06-27T13:33:01+00:00",
+        "order_lines": [
+          {
+            "product_name": "ტყის თხილი - Default Title",
+            "product_price": 25.99,
+            "quantity": 1
+          },
+          {
+            "product_name": "ირლანდიური ყავა - Default Title",
+            "product_price": 25.99,
+            "quantity": 1
+          }
+        ]
+      },
+      {
+        "order_id": 6200900681920,
+        "total_spent": 49.98,
+        "order_date": "2025-06-27T12:57:05+00:00",
+        "order_lines": [
+          {
+            "product_name": "კოლუმბია 03 - Default Title",
+            "product_price": 24.99,
+            "quantity": 2
+          }
+        ]
+      },
+      {
+        "order_id": 6195312001216,
+        "total_spent": 68.97,
+        "order_date": "2025-06-23T17:03:53+00:00",
+        "order_lines": [
+          {
+            "product_name": "გვატემალა 07 - Default Title",
+            "product_price": 24.99,
+            "quantity": 1
+          },
+          {
+            "product_name": "მთის ჟოლო - Default Title",
+            "product_price": 25.99,
+            "quantity": 1
+          },
+          {
+            "product_name": "მანგო კარაბაო - Default Title",
+            "product_price": 22.99,
+            "quantity": 1
+          }
+        ]
+      },
+      {
+        "order_id": 6193921949888,
+        "total_spent": 24.99,
+        "order_date": "2025-06-22T15:31:18+00:00",
+        "order_lines": [
+          {
+            "product_name": "გვატემალა 07 - Default Title",
+            "product_price": 24.99,
+            "quantity": 1
+          }
+        ]
+      },
+      {
+        "order_id": 6102605070528,
+        "total_spent": 53.98,
+        "order_date": "2025-04-27T09:54:34+00:00",
+        "order_lines": [
+          {
+            "product_name": "ყავა კოლაგენით - Default Title",
+            "product_price": 26.99,
+            "quantity": 2
+          }
+        ]
+      },
+      {
+        "order_id": 5825367572672,
+        "total_spent": 5.0,
+        "order_date": "2024-12-07T11:21:00+00:00",
+        "order_lines": [
+          {
+            "product_name": "სკელარისი - Default Title",
+            "product_price": 4.99,
+            "quantity": 1
+          }
+        ]
+      }
+    ],
+    "historical_spending": 628.25,
+    "average_order_value": 57.11,
+    "total_orders": 11
+  },
+  {
+    "id": 7601092001984,
+    "email": "g.kalandia@gmail.com",
+    "created_at": "2024-11-05 21:54:22.000000 +00:00",
+    "historical_purchase_frequency": [
+      {
+        "order_id": 6226461753536,
+        "total_spent": 76.97,
+        "order_date": "2025-07-13T14:04:48+00:00",
+        "order_lines": [
+          {
+            "product_name": "ტყის თხილი - Default Title",
+            "product_price": 25.99,
+            "quantity": 1
+          },
+          {
+            "product_name": "გვატემალა 07 - Default Title",
+            "product_price": 24.99,
+            "quantity": 1
+          },
+          {
+            "product_name": "კარამელი - Default Title",
+            "product_price": 25.99,
+            "quantity": 1
+          },
+          {
+            "product_name": "მეტალის ჭიქა 280 მლ - ვარდისფერი",
+            "product_price": 39.99,
+            "quantity": 1
+          }
+        ]
+      },
+      {
+        "order_id": 6175472189632,
+        "total_spent": 89.95,
+        "order_date": "2025-06-09T15:24:13+00:00",
+        "order_lines": [
+          {
+            "product_name": "მწვანე 07 - Default Title",
+            "product_price": 20.99,
+            "quantity": 1
+          },
+          {
+            "product_name": "ლურჯი 05 - Default Title",
+            "product_price": 20.99,
+            "quantity": 1
+          },
+          {
+            "product_name": "წითელი 06 - Default Title",
+            "product_price": 20.99,
+            "quantity": 1
+          },
+          {
+            "product_name": "იასამნისფერი 08 - Default Title",
+            "product_price": 20.99,
+            "quantity": 1
+          },
+          {
+            "product_name": "Unknown Product",
+            "product_price": null,
+            "quantity": 1
+          }
+        ]
+      },
+      {
+        "order_id": 5834988814528,
+        "total_spent": 22.5,
+        "order_date": "2024-12-13T15:31:04+00:00",
+        "order_lines": [
+          {
+            "product_name": "მწვანე 07 - Default Title",
+            "product_price": 20.99,
+            "quantity": 1
+          },
+          {
+            "product_name": "ლურჯი 05 - Default Title",
+            "product_price": 20.99,
+            "quantity": 1
+          }
+        ]
+      }
+    ],
+    "historical_spending": 189.42,
+    "average_order_value": 63.14,
+    "total_orders": 3
+  },
+  {
+    "id": 7601092034752,
+    "email": "lekve11@gmail.com",
+    "created_at": "2024-11-05 21:54:24.000000 +00:00",
+    "historical_purchase_frequency": [
+      {
+        "order_id": 6284105810112,
+        "total_spent": 187.92,
+        "order_date": "2025-08-24T13:32:23+00:00",
+        "order_lines": [
+          {
+            "product_name": "კარამელი - Default Title",
+            "product_price": 21.99,
+            "quantity": 2
+          },
+          {
+            "product_name": "ტყის თხილი - Default Title",
+            "product_price": 21.99,
+            "quantity": 2
+          },
+          {
+            "product_name": "მაკაპუნო ქოქოსი - Default Title",
+            "product_price": 21.99,
+            "quantity": 2
+          },
+          {
+            "product_name": "ასიმეტრიული მინის ჰოლდერი | 18სმ - Default Title",
+            "product_price": 49.99,
+            "quantity": 1
+          },
+          {
+            "product_name": "სკელარისი - Default Title",
+            "product_price": 4.99,
+            "quantity": 1
+          },
+          {
+            "product_name": "ფაიფურის ჭიქა - სტაფილოსფეერი - Default Title",
+            "product_price": 8.0,
+            "quantity": 1
+          },
+          {
+            "product_name": "ფაიფურის ჭიქა - მწვანე - Default Title",
+            "product_price": 8.0,
+            "quantity": 1
+          }
+        ]
+      },
+      {
+        "order_id": 6270767104192,
+        "total_spent": 24.99,
+        "order_date": "2025-08-14T06:39:51+00:00",
+        "order_lines": [
+          {
+            "product_name": "ბულდოგი - Default Title",
+            "product_price": 24.99,
+            "quantity": 1
+          }
+        ]
+      },
+      {
+        "order_id": 6269439148224,
+        "total_spent": 71.97,
+        "order_date": "2025-08-13T08:00:53+00:00",
+        "order_lines": [
+          {
+            "product_name": "მაკაპუნო ქოქოსი - Default Title",
+            "product_price": 25.99,
+            "quantity": 1
+          },
+          {
+            "product_name": "ეთიოპია 05 - Default Title",
+            "product_price": 24.99,
+            "quantity": 1
+          },
+          {
+            "product_name": "ტყის თხილი - Default Title",
+            "product_price": 25.99,
+            "quantity": 1
+          }
+        ]
+      },
+      {
+        "order_id": 6250416799936,
+        "total_spent": 57.97,
+        "order_date": "2025-07-30T15:56:08+00:00",
+        "order_lines": [
+          {
+            "product_name": "იასამნისფერი 08 - Default Title",
+            "product_price": 20.99,
+            "quantity": 1
+          },
+          {
+            "product_name": "ბურგუნდი 09 - Default Title",
+            "product_price": 20.99,
+            "quantity": 1
+          },
+          {
+            "product_name": "ბულდოგი - Default Title",
+            "product_price": 20.99,
+            "quantity": 1
+          }
+        ]
+      },
+      {
+        "order_id": 6219245945024,
+        "total_spent": 62.97,
+        "order_date": "2025-07-09T16:05:19+00:00",
+        "order_lines": [
+          {
+            "product_name": "ბულდოგი - Default Title",
+            "product_price": 20.99,
+            "quantity": 2
+          },
+          {
+            "product_name": "ბურგუნდი 09 - Default Title",
+            "product_price": 20.99,
+            "quantity": 1
+          },
+          {
+            "product_name": "მეტალის ჭიქა 280 მლ - იასამნისფერი",
+            "product_price": 39.99,
+            "quantity": 1
+          }
+        ]
+      },
+      {
+        "order_id": 6216093008064,
+        "total_spent": 26.97,
+        "order_date": "2025-07-07T13:06:21+00:00",
+        "order_lines": [
+          {
+            "product_name": "ნალექიანი ყავა: კოლუმბია და ბრაზილია - Default Title",
+            "product_price": 8.99,
+            "quantity": 3
+          }
+        ]
+      },
+      {
+        "order_id": 6213079302336,
+        "total_spent": 77.97,
+        "order_date": "2025-07-05T12:40:31+00:00",
+        "order_lines": [
+          {
+            "product_name": "ტყის თხილი შოკოლადით - Default Title",
+            "product_price": 25.99,
+            "quantity": 3
+          },
+          {
+            "product_name": "მეტალის ჭიქა 280 მლ - შავი",
+            "product_price": 39.99,
+            "quantity": 1
+          }
+        ]
+      },
+      {
+        "order_id": 6213007212736,
+        "total_spent": 62.97,
+        "order_date": "2025-07-05T11:15:21+00:00",
+        "order_lines": [
+          {
+            "product_name": "უკოფეინო - Default Title",
+            "product_price": 20.99,
+            "quantity": 2
+          },
+          {
+            "product_name": "Unknown Product",
+            "product_price": null,
+            "quantity": 1
+          },
+          {
+            "product_name": "მეტალის ჭიქა 280 მლ - სტაფილოსფერი",
+            "product_price": 39.99,
+            "quantity": 1
+          }
+        ]
+      },
+      {
+        "order_id": 6212968808640,
+        "total_spent": 168.91,
+        "order_date": "2025-07-05T10:21:31+00:00",
+        "order_lines": [
+          {
+            "product_name": "მაკაპუნო ქოქოსი - Default Title",
+            "product_price": 21.99,
+            "quantity": 2
+          },
+          {
+            "product_name": "გვატემალა 07 - Default Title",
+            "product_price": 24.99,
+            "quantity": 7
+          }
+        ]
+      },
+      {
+        "order_id": 6204161982656,
+        "total_spent": 25.99,
+        "order_date": "2025-06-29T17:30:13+00:00",
+        "order_lines": [
+          {
+            "product_name": "ვანილი - Default Title",
+            "product_price": 25.99,
+            "quantity": 1
+          }
+        ]
+      },
+      {
+        "order_id": 6065041703104,
+        "total_spent": 25.99,
+        "order_date": "2025-04-05T11:56:14+00:00",
+        "order_lines": [
+          {
+            "product_name": "მაკაპუნო ქოქოსი - Default Title",
+            "product_price": 25.99,
+            "quantity": 1
+          }
+        ]
+      },
+      {
+        "order_id": 6045575905472,
+        "total_spent": 25.99,
+        "order_date": "2025-03-27T15:43:08+00:00",
+        "order_lines": [
+          {
+            "product_name": "კარამელი - Default Title",
+            "product_price": 25.99,
+            "quantity": 1
+          }
+        ]
+      },
+      {
+        "order_id": 6032309420224,
+        "total_spent": 43.98,
+        "order_date": "2025-03-18T11:59:29+00:00",
+        "order_lines": [
+          {
+            "product_name": "ვანილი - Default Title",
+            "product_price": 21.99,
+            "quantity": 1
+          },
+          {
+            "product_name": "მაკაპუნო ქოქოსი - Default Title",
+            "product_price": 21.99,
+            "quantity": 1
+          }
+        ]
+      },
+      {
+        "order_id": 6029878853824,
+        "total_spent": 42.98,
+        "order_date": "2025-03-16T17:06:02+00:00",
+        "order_lines": [
+          {
+            "product_name": "იასამნისფერი 08 - Default Title",
+            "product_price": 20.99,
+            "quantity": 1
+          },
+          {
+            "product_name": "ტყის თხილი შოკოლადი - Default Title",
+            "product_price": 21.99,
+            "quantity": 1
+          }
+        ]
+      },
+      {
+        "order_id": 5970733859008,
+        "total_spent": 45.0,
+        "order_date": "2025-02-01T15:15:57+00:00",
+        "order_lines": [
+          {
+            "product_name": "წითელი 06 - Default Title",
+            "product_price": 20.99,
+            "quantity": 1
+          },
+          {
+            "product_name": "ლურჯი 05 - Default Title",
+            "product_price": 20.99,
+            "quantity": 1
+          },
+          {
+            "product_name": "ტყის თხილი შოკოლადი - Default Title",
+            "product_price": 21.99,
+            "quantity": 1
+          },
+          {
+            "product_name": "მაკაპუნო ქოქოსი - Default Title",
+            "product_price": 21.99,
+            "quantity": 1
+          }
+        ]
+      },
+      {
+        "order_id": 5911489347776,
+        "total_spent": 8.0,
+        "order_date": "2025-01-18T15:27:53+00:00",
+        "order_lines": [
+          {
+            "product_name": "ფაიფურის ჭიქა - სტაფილოსფეერი - Default Title",
+            "product_price": 8.0,
+            "quantity": 1
+          }
+        ]
+      },
+      {
+        "order_id": 5848602607808,
+        "total_spent": 27.0,
+        "order_date": "2024-12-22T12:19:13+00:00",
+        "order_lines": [
+          {
+            "product_name": "ტყის თხილი შოკოლადით - Default Title",
+            "product_price": 25.99,
+            "quantity": 1
+          },
+          {
+            "product_name": "მაკაპუნო ქოქოსი - Default Title",
+            "product_price": 25.99,
+            "quantity": 1
+          }
+        ]
+      },
+      {
+        "order_id": 5848508858560,
+        "total_spent": 27.0,
+        "order_date": "2024-12-22T09:32:03+00:00",
+        "order_lines": [
+          {
+            "product_name": "კარამელი - Default Title",
+            "product_price": 25.99,
+            "quantity": 1
+          },
+          {
+            "product_name": "ვანილი - Default Title",
+            "product_price": 25.99,
+            "quantity": 1
+          }
+        ]
+      }
+    ],
+    "historical_spending": 1014.57,
+    "average_order_value": 56.37,
+    "total_orders": 18
+  },
+  {
+    "id": 7601092165824,
+    "email": "e.enukidze@meama.ge",
+    "created_at": "2024-11-05 21:54:26.000000 +00:00",
+    "historical_purchase_frequency": [
+      {
+        "order_id": 6277490344128,
+        "total_spent": 60.97,
+        "order_date": "2025-08-19T14:14:01+00:00",
+        "order_lines": [
+          {
+            "product_name": "ტყის თხილი - Default Title",
+            "product_price": 21.99,
+            "quantity": 1
+          },
+          {
+            "product_name": "ვანილი - Default Title",
+            "product_price": 21.99,
+            "quantity": 1
+          },
+          {
+            "product_name": "კარამელი - Default Title",
+            "product_price": 21.99,
+            "quantity": 1
+          }
+        ]
+      },
+      {
+        "order_id": 6212920115392,
+        "total_spent": 86.96,
+        "order_date": "2025-07-05T09:28:04+00:00",
+        "order_lines": [
+          {
+            "product_name": "ტყის თხილი - Default Title",
+            "product_price": 25.99,
+            "quantity": 1
+          },
+          {
+            "product_name": "ელ-სალვადორი 04 - Default Title",
+            "product_price": 24.99,
+            "quantity": 1
+          },
+          {
+            "product_name": "გვატემალა 07 - Default Title",
+            "product_price": 24.99,
+            "quantity": 1
+          },
+          {
+            "product_name": "მთის ჟოლო - Default Title",
+            "product_price": 25.99,
+            "quantity": 1
+          }
+        ]
+      },
+      {
+        "order_id": 6202582597824,
+        "total_spent": 57.97,
+        "order_date": "2025-06-28T15:02:39+00:00",
+        "order_lines": [
+          {
+            "product_name": "იასამნისფერი 08 - Default Title",
+            "product_price": 20.99,
+            "quantity": 3
+          }
+        ]
+      },
+      {
+        "order_id": 6192340304064,
+        "total_spent": 41.98,
+        "order_date": "2025-06-21T07:08:02+00:00",
+        "order_lines": [
+          {
+            "product_name": "იასამნისფერი 08 - Default Title",
+            "product_price": 20.99,
+            "quantity": 2
+          }
+        ]
+      },
+      {
+        "order_id": 6029520306368,
+        "total_spent": 48.0,
+        "order_date": "2025-03-16T08:53:16+00:00",
+        "order_lines": [
+          {
+            "product_name": "მეტალის ჭიქა 280 მლ - შავი",
+            "product_price": 39.99,
+            "quantity": 1
+          },
+          {
+            "product_name": "ფაიფურის ჭიქა - მწვანე - Default Title",
+            "product_price": 8.0,
+            "quantity": 1
+          }
+        ]
+      },
+      {
+        "order_id": 5988313825472,
+        "total_spent": 23.75,
+        "order_date": "2025-02-14T07:54:29+00:00",
+        "order_lines": [
+          {
+            "product_name": "ბურგუნდი 09 - Default Title",
+            "product_price": 20.99,
+            "quantity": 1
+          },
+          {
+            "product_name": "ბულდოგი - Default Title",
+            "product_price": 20.99,
+            "quantity": 1
+          }
+        ]
+      },
+      {
+        "order_id": 5848563941568,
+        "total_spent": 40.0,
+        "order_date": "2024-12-22T11:33:04+00:00",
+        "order_lines": [
+          {
+            "product_name": "კოლუმბია და მექსიკა - 500გრ",
+            "product_price": 39.99,
+            "quantity": 1
+          }
+        ]
+      },
+      {
+        "order_id": 5847439835328,
+        "total_spent": 118.0,
+        "order_date": "2024-12-21T15:38:30+00:00",
+        "order_lines": [
+          {
+            "product_name": "ავორე - Default Title",
+            "product_price": 14.0,
+            "quantity": 2
+          },
+          {
+            "product_name": "მწვანე 07 - Default Title",
+            "product_price": 20.99,
+            "quantity": 8
+          }
+        ]
+      }
+    ],
+    "historical_spending": 477.63,
+    "average_order_value": 59.7,
+    "total_orders": 8
+  },
+  {
+    "id": 7601092657344,
+    "email": "bela.bandzeladze@gmail.com",
+    "created_at": "2024-11-05 21:54:36.000000 +00:00",
+    "historical_purchase_frequency": [
+      {
+        "order_id": 6226463228096,
+        "total_spent": 76.97,
+        "order_date": "2025-07-13T14:06:53+00:00",
+        "order_lines": [
+          {
+            "product_name": "ტყის თხილი - Default Title",
+            "product_price": 25.99,
+            "quantity": 1
+          },
+          {
+            "product_name": "კარამელი - Default Title",
+            "product_price": 25.99,
+            "quantity": 1
+          },
+          {
+            "product_name": "ბრაზილია 08 - Default Title",
+            "product_price": 24.99,
+            "quantity": 1
+          },
+          {
+            "product_name": "მეტალის ჭიქა 280 მლ - სტაფილოსფერი",
+            "product_price": 39.99,
+            "quantity": 1
+          }
+        ]
+      },
+      {
+        "order_id": 6223864692928,
+        "total_spent": 24.99,
+        "order_date": "2025-07-11T16:54:44+00:00",
+        "order_lines": [
+          {
+            "product_name": "ეთიოპია 05 - Default Title",
+            "product_price": 24.99,
+            "quantity": 1
+          }
+        ]
+      },
+      {
+        "order_id": 6219368169664,
+        "total_spent": 12.98,
+        "order_date": "2025-07-09T17:45:55+00:00",
+        "order_lines": [
+          {
+            "product_name": "ნალექიანი ყავა: ბრაზილია და მექსიკა - Default Title",
+            "product_price": 6.49,
+            "quantity": 2
+          }
+        ]
+      },
+      {
+        "order_id": 6216200716480,
+        "total_spent": 64.97,
+        "order_date": "2025-07-07T14:52:46+00:00",
+        "order_lines": [
+          {
+            "product_name": "ტყის თხილი - Default Title",
+            "product_price": 21.99,
+            "quantity": 1
+          },
+          {
+            "product_name": "კარამელი - Default Title",
+            "product_price": 21.99,
+            "quantity": 1
+          },
+          {
+            "product_name": "მწვანე 07 - Default Title",
+            "product_price": 20.99,
+            "quantity": 1
+          },
+          {
+            "product_name": "მეტალის ჭიქა 160 მლ - შავი",
+            "product_price": 29.99,
+            "quantity": 1
+          }
+        ]
+      },
+      {
+        "order_id": 6200943018176,
+        "total_spent": 25.99,
+        "order_date": "2025-06-27T13:36:05+00:00",
+        "order_lines": [
+          {
+            "product_name": "მარწყვი კივით - Default Title",
+            "product_price": 25.99,
+            "quantity": 1
+          }
+        ]
+      },
+      {
+        "order_id": 6196256047296,
+        "total_spent": 20.99,
+        "order_date": "2025-06-24T10:48:25+00:00",
+        "order_lines": [
+          {
+            "product_name": "მწვანე 07 - Default Title",
+            "product_price": 20.99,
+            "quantity": 1
+          }
+        ]
+      },
+      {
+        "order_id": 6193915101376,
+        "total_spent": 46.98,
+        "order_date": "2025-06-22T15:23:25+00:00",
+        "order_lines": [
+          {
+            "product_name": "ტყის თხილი - Default Title",
+            "product_price": 25.99,
+            "quantity": 1
+          },
+          {
+            "product_name": "ირლანდიური ყავა - Default Title",
+            "product_price": 25.99,
+            "quantity": 1
+          }
+        ]
+      },
+      {
+        "order_id": 6017631289536,
+        "total_spent": 77.97,
+        "order_date": "2025-03-08T16:42:16+00:00",
+        "order_lines": [
+          {
+            "product_name": "ტყის თხილი - Default Title",
+            "product_price": 25.99,
+            "quantity": 3
+          }
+        ]
+      },
+      {
+        "order_id": 5907456229568,
+        "total_spent": 22.5,
+        "order_date": "2025-01-16T13:41:13+00:00",
+        "order_lines": [
+          {
+            "product_name": "ვანილი - Default Title",
+            "product_price": 21.99,
+            "quantity": 1
+          },
+          {
+            "product_name": "კარამელი - Default Title",
+            "product_price": 21.99,
+            "quantity": 1
+          }
+        ]
+      },
+      {
+        "order_id": 5902408286400,
+        "total_spent": 90.0,
+        "order_date": "2025-01-12T13:31:19+00:00",
+        "order_lines": [
+          {
+            "product_name": "იასამნისფერი 08 - Default Title",
+            "product_price": 20.99,
+            "quantity": 4
+          },
+          {
+            "product_name": "ბურგუნდი 09 - Default Title",
+            "product_price": 20.99,
+            "quantity": 4
+          }
+        ]
+      },
+      {
+        "order_id": 5896458305728,
+        "total_spent": 4.4,
+        "order_date": "2025-01-07T13:59:53+00:00",
+        "order_lines": [
+          {
+            "product_name": "ნალექიანი ყავა: მექსიკა - Default Title",
+            "product_price": 5.99,
+            "quantity": 1
+          }
+        ]
+      },
+      {
+        "order_id": 5853450272960,
+        "total_spent": 27.0,
+        "order_date": "2024-12-24T10:52:56+00:00",
+        "order_lines": [
+          {
+            "product_name": "ბრაზილია 08 - Default Title",
+            "product_price": 24.99,
+            "quantity": 1
+          },
+          {
+            "product_name": "ტყის თხილი - Default Title",
+            "product_price": 25.99,
+            "quantity": 1
+          }
+        ]
+      },
+      {
+        "order_id": 5848557093056,
+        "total_spent": 11.9,
+        "order_date": "2024-12-22T11:20:20+00:00",
+        "order_lines": [
+          {
+            "product_name": "ნალექიანი ყავა: ბრაზილია და მექსიკა - Default Title",
+            "product_price": 6.49,
+            "quantity": 1
+          },
+          {
+            "product_name": "ნალექიანი ყავა: კოლუმბია და ბრაზილია - Default Title",
+            "product_price": 6.99,
+            "quantity": 1
+          }
+        ]
+      }
+    ],
+    "historical_spending": 507.64,
+    "average_order_value": 39.05,
+    "total_orders": 13
+  },
+  {
+    "id": 7601092690112,
+    "email": "s.chilaia@meama.ge",
+    "created_at": "2024-11-05 21:54:37.000000 +00:00",
+    "historical_purchase_frequency": [
+      {
+        "order_id": 6251489624256,
+        "total_spent": 60.97,
+        "order_date": "2025-07-31T09:45:05+00:00",
+        "order_lines": [
+          {
+            "product_name": "ტყის თხილი - Default Title",
+            "product_price": 21.99,
+            "quantity": 1
+          },
+          {
+            "product_name": "კარამელი - Default Title",
+            "product_price": 21.99,
+            "quantity": 1
+          },
+          {
+            "product_name": "ტყის თხილი შოკოლადი - Default Title",
+            "product_price": 21.99,
+            "quantity": 1
+          }
+        ]
+      },
+      {
+        "order_id": 6011276427456,
+        "total_spent": 26.0,
+        "order_date": "2025-03-03T18:07:33+00:00",
+        "order_lines": [
+          {
+            "product_name": "ვანილი - Default Title",
+            "product_price": 25.99,
+            "quantity": 1
+          },
+          {
+            "product_name": "კარამელი - Default Title",
+            "product_price": 25.99,
+            "quantity": 1
+          }
+        ]
+      },
+      {
+        "order_id": 6005776908480,
+        "total_spent": 52.0,
+        "order_date": "2025-02-27T14:28:05+00:00",
+        "order_lines": [
+          {
+            "product_name": "მაკაპუნო ქოქოსი - Default Title",
+            "product_price": 25.99,
+            "quantity": 4
+          }
+        ]
+      },
+      {
+        "order_id": 5953136033984,
+        "total_spent": 22.5,
+        "order_date": "2025-01-29T16:54:16+00:00",
+        "order_lines": [
+          {
+            "product_name": "ტყის თხილი - Default Title",
+            "product_price": 21.99,
+            "quantity": 1
+          },
+          {
+            "product_name": "კარამელი - Default Title",
+            "product_price": 21.99,
+            "quantity": 1
+          }
+        ]
+      }
+    ],
+    "historical_spending": 161.47,
+    "average_order_value": 40.37,
+    "total_orders": 4
+  },
+  {
+    "id": 7601093050560,
+    "email": "globalchek@mail.ru",
+    "created_at": "2024-11-05 21:54:41.000000 +00:00",
+    "historical_purchase_frequency": [
+      {
+        "order_id": 6225205887168,
+        "total_spent": 94.95,
+        "order_date": "2025-07-12T15:11:36+00:00",
+        "order_lines": [
+          {
+            "product_name": "ტყის თხილი შოკოლადი - Default Title",
+            "product_price": 21.99,
+            "quantity": 5
+          }
+        ]
+      },
+      {
+        "order_id": 6045543628992,
+        "total_spent": 25.99,
+        "order_date": "2025-03-27T15:09:03+00:00",
+        "order_lines": [
+          {
+            "product_name": "ტყის თხილი - Default Title",
+            "product_price": 25.99,
+            "quantity": 1
+          }
+        ]
+      },
+      {
+        "order_id": 5897682387136,
+        "total_spent": 75.0,
+        "order_date": "2025-01-08T14:16:32+00:00",
+        "order_lines": [
+          {
+            "product_name": "კარამელი - Default Title",
+            "product_price": 21.99,
+            "quantity": 1
+          },
+          {
+            "product_name": "ლურჯი 05 - Default Title",
+            "product_price": 20.99,
+            "quantity": 1
+          },
+          {
+            "product_name": "წითელი 06 - Default Title",
+            "product_price": 20.99,
+            "quantity": 1
+          },
+          {
+            "product_name": "მწვანე 07 - Default Title",
+            "product_price": 20.99,
+            "quantity": 1
+          },
+          {
+            "product_name": "იასამნისფერი 08 - Default Title",
+            "product_price": 20.99,
+            "quantity": 1
+          },
+          {
+            "product_name": "ბურგუნდი 09 - Default Title",
+            "product_price": 20.99,
+            "quantity": 1
+          },
+          {
+            "product_name": "ტყის თხილი შოკოლადი - Default Title",
+            "product_price": 21.99,
+            "quantity": 1
+          }
+        ]
+      },
+      {
+        "order_id": 5896495431872,
+        "total_spent": 27.0,
+        "order_date": "2025-01-07T14:39:47+00:00",
+        "order_lines": [
+          {
+            "product_name": "ბრაზილია 08 - Default Title",
+            "product_price": 24.99,
+            "quantity": 1
+          },
+          {
+            "product_name": "გვატემალა 07 - Default Title",
+            "product_price": 24.99,
+            "quantity": 1
+          }
+        ]
+      }
+    ],
+    "historical_spending": 222.94,
+    "average_order_value": 55.74,
+    "total_orders": 4
+  }
+]

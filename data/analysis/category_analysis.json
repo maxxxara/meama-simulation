@@ -1,0 +1,115 @@
+{
+  "other": {
+    "total_quantity": 21439,
+    "total_orders": 16476,
+    "avg_price": 145.53,
+    "product_count": 54,
+    "top_products": [
+      "დღის შეთავაზება - Default Title",
+      "უკოფეინო - Default Title",
+      "ბულდოგი - Default Title",
+      "მთის ჟოლო - Default Title",
+      "სკელარისი - Default Title"
+    ]
+  },
+  "coffee_blend": {
+    "total_quantity": 58328,
+    "total_orders": 35951,
+    "avg_price": 55.25,
+    "product_count": 52,
+    "top_products": [
+      "ბურგუნდი 09 - Vending - ბურგუნდი 09 - Vending 2.25 Gel",
+      "მწვანე 07 - Vending - მწვანე 07 - Vending 2.25 Gel",
+      "ბურგუნდი 09 - Free - Default Title",
+      "ბურგუნდი 09 - Default Title",
+      "იასამნისფერი 08 - Default Title"
+    ]
+  },
+  "subscription": {
+    "total_quantity": 323,
+    "total_orders": 322,
+    "avg_price": 81.44,
+    "product_count": 6,
+    "top_products": [
+      "MEAMA Explorer - 3 თვიანი პაკეტი - Default Title",
+      "MEAMA Ultimate - 3 თვიანი პაკეტი - Default Title",
+      "MEAMA Explorer - 1 თვიანი პაკეტი - Default Title",
+      "MEAMA Classic - 1 თვიანი პაკეტი - Default Title",
+      "MEAMA Ultimate - 1 თვიანი პაკეტი - Default Title"
+    ]
+  },
+  "accessories": {
+    "total_quantity": 87916,
+    "total_orders": 69853,
+    "avg_price": 34.92,
+    "product_count": 28,
+    "top_products": [
+      "პატარა ჭიქა - Vending - Default Title",
+      "დიდი ჭიქა - Vending - Default Title",
+      "ასიმეტრიული მინის ჰოლდერი | 18სმ - Default Title",
+      "მეტალის ჭიქა 280 მლ - შავი",
+      "მეტალის ჭიქა 280 მლ - ვარდისფერი"
+    ]
+  },
+  "flavored_coffee": {
+    "total_quantity": 83839,
+    "total_orders": 59994,
+    "avg_price": 6.68,
+    "product_count": 30,
+    "top_products": [
+      "ტყის თხილი - Vending - ტყის თხილი - Vending 2.25 Gel",
+      "კარამელი - Vending - კარამელი - Vending 2.25 Gel",
+      "ტყის თხილი - Default Title",
+      "ვანილი - Vending - ვანილი - Vending 2.25 Gel",
+      "კარამელი - Default Title"
+    ]
+  },
+  "vending": {
+    "total_quantity": 102887,
+    "total_orders": 37149,
+    "avg_price": 1.75,
+    "product_count": 16,
+    "top_products": [
+      "შაქარი - Vending - Default Title",
+      "კარკადე კენკრით - Vending - კარკადე კენკრით - Vending 2.25 Gel",
+      "ყავა ლატე - Vending - ყავა ლატე - Vending 2.25 Gel",
+      "ირლანდიური ყავა - Vending - ირლანდიური ყავა - Vending 2.25 Gel",
+      "ირლანდიური ყავა - Vending - ირლანდიური ყავა - Vending 1 Gel"
+    ]
+  },
+  "free_items": {
+    "total_quantity": 1726,
+    "total_orders": 1205,
+    "avg_price": 0.0,
+    "product_count": 31,
+    "top_products": [
+      "კარკადე კენკრით - Free - Default Title",
+      "ყავა ლატე - Free - Default Title",
+      "ყავა კოლაგენით - Tier Point - Default Title",
+      "ბულდოგი - Tier Point - Default Title",
+      "ირლანდიური ყავა - Free - Default Title"
+    ]
+  },
+  "coffee_origin": {
+    "total_quantity": 29143,
+    "total_orders": 19196,
+    "avg_price": 10.01,
+    "product_count": 34,
+    "top_products": [
+      "ბრაზილია 08 - Vending - ბრაზილია 08 - Vending 2.25 Gel",
+      "ბრაზილია 08 - Default Title",
+      "გვატემალა 07 - Default Title",
+      "ელ-სალვადორი 04 - Vending - ელ-სალვადორი 04 - Vending 2.25 Gel",
+      "ეთიოპია 05 - Default Title"
+    ]
+  },
+  "instant_coffee": {
+    "total_quantity": 367,
+    "total_orders": 182,
+    "avg_price": 6.63,
+    "product_count": 1,
+    "top_products": [
+      "ნალექიანი ყავა: მექსიკა - Default Title"
+    ]
+  }
+}

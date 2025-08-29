@@ -1,0 +1,5 @@
+pydantic
+mesa[rec]
+seaborn
+plotly
+pandas 

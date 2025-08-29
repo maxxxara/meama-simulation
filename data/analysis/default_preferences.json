@@ -1,0 +1,320 @@
+{
+  "preferred_products": [
+    {
+      "name": "პატარა ჭიქა - Vending - Default Title",
+      "frequency": 37816,
+      "preference_score": 0.1675,
+      "avg_quantity": 1.31
+    },
+    {
+      "name": "შაქარი - Vending - Default Title",
+      "frequency": 33217,
+      "preference_score": 0.1471,
+      "avg_quantity": 2.96
+    },
+    {
+      "name": "დიდი ჭიქა - Vending - Default Title",
+      "frequency": 28295,
+      "preference_score": 0.1253,
+      "avg_quantity": 1.22
+    },
+    {
+      "name": "ბურგუნდი 09 - Vending - ბურგუნდი 09 - Vending 2.25 Gel",
+      "frequency": 14751,
+      "preference_score": 0.0653,
+      "avg_quantity": 1.31
+    },
+    {
+      "name": "ტყის თხილი - Vending - ტყის თხილი - Vending 2.25 Gel",
+      "frequency": 12389,
+      "preference_score": 0.0549,
+      "avg_quantity": 1.19
+    },
+    {
+      "name": "კარამელი - Vending - კარამელი - Vending 2.25 Gel",
+      "frequency": 8106,
+      "preference_score": 0.0359,
+      "avg_quantity": 1.15
+    },
+    {
+      "name": "ტყის თხილი - Default Title",
+      "frequency": 5634,
+      "preference_score": 0.0249,
+      "avg_quantity": 1.95
+    },
+    {
+      "name": "ბრაზილია 08 - Vending - ბრაზილია 08 - Vending 2.25 Gel",
+      "frequency": 5407,
+      "preference_score": 0.0239,
+      "avg_quantity": 1.17
+    },
+    {
+      "name": "მწვანე 07 - Vending - მწვანე 07 - Vending 2.25 Gel",
+      "frequency": 5264,
+      "preference_score": 0.0233,
+      "avg_quantity": 1.28
+    },
+    {
+      "name": "ვანილი - Vending - ვანილი - Vending 2.25 Gel",
+      "frequency": 4746,
+      "preference_score": 0.021,
+      "avg_quantity": 1.16
+    },
+    {
+      "name": "კარამელი - Default Title",
+      "frequency": 4583,
+      "preference_score": 0.0203,
+      "avg_quantity": 1.52
+    },
+    {
+      "name": "ვანილი - Default Title",
+      "frequency": 4327,
+      "preference_score": 0.0192,
+      "avg_quantity": 1.51
+    },
+    {
+      "name": "ტყის თხილი შოკოლადი - Vending - ტყის თხილი შოკოლადი - Vending 2.25 Gel",
+      "frequency": 3421,
+      "preference_score": 0.0151,
+      "avg_quantity": 1.16
+    },
+    {
+      "name": "ტყის თხილი - Free - Default Title",
+      "frequency": 3323,
+      "preference_score": 0.0147,
+      "avg_quantity": 1.56
+    },
+    {
+      "name": "მაკაპუნო ქოქოსი - Default Title",
+      "frequency": 3133,
+      "preference_score": 0.0139,
+      "avg_quantity": 1.43
+    },
+    {
+      "name": "ბრაზილია 08 - Default Title",
+      "frequency": 2749,
+      "preference_score": 0.0122,
+      "avg_quantity": 2.03
+    },
+    {
+      "name": "ბურგუნდი 09 - Free - Default Title",
+      "frequency": 2741,
+      "preference_score": 0.0121,
+      "avg_quantity": 1.6
+    },
+    {
+      "name": "კარამელი - Free - Default Title",
+      "frequency": 2402,
+      "preference_score": 0.0106,
+      "avg_quantity": 1.53
+    },
+    {
+      "name": "ტყის თხილი შოკოლადით - Default Title",
+      "frequency": 2398,
+      "preference_score": 0.0106,
+      "avg_quantity": 1.5
+    },
+    {
+      "name": "გვატემალა 07 - Default Title",
+      "frequency": 2378,
+      "preference_score": 0.0105,
+      "avg_quantity": 1.83
+    },
+    {
+      "name": "დღის შეთავაზება - Default Title",
+      "frequency": 2246,
+      "preference_score": 0.0099,
+      "avg_quantity": 1.03
+    },
+    {
+      "name": "ბურგუნდი 09 - Default Title",
+      "frequency": 2173,
+      "preference_score": 0.0096,
+      "avg_quantity": 2.88
+    },
+    {
+      "name": "იასამნისფერი 08 - Default Title",
+      "frequency": 2120,
+      "preference_score": 0.0094,
+      "avg_quantity": 2.44
+    },
+    {
+      "name": "მწვანე 07 - Free - Default Title",
+      "frequency": 2030,
+      "preference_score": 0.009,
+      "avg_quantity": 1.75
+    },
+    {
+      "name": "მწვანე 07 - Default Title",
+      "frequency": 1986,
+      "preference_score": 0.0088,
+      "avg_quantity": 2.21
+    },
+    {
+      "name": "კარკადე კენკრით - Vending - კარკადე კენკრით - Vending 2.25 Gel",
+      "frequency": 1952,
+      "preference_score": 0.0086,
+      "avg_quantity": 1.1
+    },
+    {
+      "name": "ელ-სალვადორი 04 - Vending - ელ-სალვადორი 04 - Vending 2.25 Gel",
+      "frequency": 1944,
+      "preference_score": 0.0086,
+      "avg_quantity": 1.2
+    },
+    {
+      "name": "უკოფეინო - Default Title",
+      "frequency": 1835,
+      "preference_score": 0.0081,
+      "avg_quantity": 1.87
+    },
+    {
+      "name": "ტყის თხილი შოკოლადი - Default Title",
+      "frequency": 1742,
+      "preference_score": 0.0077,
+      "avg_quantity": 1.74
+    },
+    {
+      "name": "ვანილი - Free - Default Title",
+      "frequency": 1738,
+      "preference_score": 0.0077,
+      "avg_quantity": 1.41
+    },
+    {
+      "name": "ეთიოპია 05 - Default Title",
+      "frequency": 1731,
+      "preference_score": 0.0077,
+      "avg_quantity": 1.57
+    },
+    {
+      "name": "ბრაზილია 08 - Free - Default Title",
+      "frequency": 1637,
+      "preference_score": 0.0072,
+      "avg_quantity": 1.62
+    },
+    {
+      "name": "ბულდოგი - Default Title",
+      "frequency": 1449,
+      "preference_score": 0.0064,
+      "avg_quantity": 1.79
+    },
+    {
+      "name": "ყავა ლატე - Vending - ყავა ლატე - Vending 2.25 Gel",
+      "frequency": 1288,
+      "preference_score": 0.0057,
+      "avg_quantity": 1.25
+    },
+    {
+      "name": "ლურჯი 05 - Default Title",
+      "frequency": 1187,
+      "preference_score": 0.0053,
+      "avg_quantity": 2.16
+    },
+    {
+      "name": "წითელი 06 - Default Title",
+      "frequency": 1181,
+      "preference_score": 0.0052,
+      "avg_quantity": 2.06
+    },
+    {
+      "name": "მთის ჟოლო - Default Title",
+      "frequency": 1108,
+      "preference_score": 0.0049,
+      "avg_quantity": 1.37
+    },
+    {
+      "name": "ელ-სალვადორი 04 - Default Title",
+      "frequency": 1040,
+      "preference_score": 0.0046,
+      "avg_quantity": 1.69
+    },
+    {
+      "name": "კარკადე კენკრით - Free - Default Title",
+      "frequency": 921,
+      "preference_score": 0.0041,
+      "avg_quantity": 1.43
+    },
+    {
+      "name": "ტყის თხილი შოკოლადი - Free - Default Title",
+      "frequency": 853,
+      "preference_score": 0.0038,
+      "avg_quantity": 1.64
+    },
+    {
+      "name": "სკელარისი - Default Title",
+      "frequency": 849,
+      "preference_score": 0.0038,
+      "avg_quantity": 1.36
+    },
+    {
+      "name": "კოლუმბია 03 - Default Title",
+      "frequency": 820,
+      "preference_score": 0.0036,
+      "avg_quantity": 1.57
+    },
+    {
+      "name": "მულტივიტამინი - Default Title",
+      "frequency": 791,
+      "preference_score": 0.0035,
+      "avg_quantity": 1.34
+    },
+    {
+      "name": "ასიმეტრიული მინის ჰოლდერი | 18სმ - Default Title",
+      "frequency": 715,
+      "preference_score": 0.0032,
+      "avg_quantity": 1.01
+    },
+    {
+      "name": "ყვითელი 04 - Vending - ყვითელი 04 - Vending 2.25 Gel",
+      "frequency": 618,
+      "preference_score": 0.0027,
+      "avg_quantity": 1.77
+    },
+    {
+      "name": "ელ-სალვადორი 04 - Free - Default Title",
+      "frequency": 577,
+      "preference_score": 0.0026,
+      "avg_quantity": 1.36
+    },
+    {
+      "name": "ირლანდიური ყავა - Vending - ირლანდიური ყავა - Vending 2.25 Gel",
+      "frequency": 570,
+      "preference_score": 0.0025,
+      "avg_quantity": 1.24
+    },
+    {
+      "name": "კარკადე კენკრით - Default Title",
+      "frequency": 567,
+      "preference_score": 0.0025,
+      "avg_quantity": 1.2
+    },
+    {
+      "name": "ყავა ლატე - Default Title",
+      "frequency": 564,
+      "preference_score": 0.0025,
+      "avg_quantity": 1.18
+    },
+    {
+      "name": "მეტალის ჭიქა 280 მლ - შავი",
+      "frequency": 506,
+      "preference_score": 0.0022,
+      "avg_quantity": 1.1
+    }
+  ],
+  "category_preferences": {
+    "other": 5.6,
+    "coffee_blend": 15.1,
+    "subscription": 0.1,
+    "accessories": 22.8,
+    "flavored_coffee": 21.7,
+    "vending": 26.7,
+    "free_items": 0.4,
+    "coffee_origin": 7.6,
+    "instant_coffee": 0.1
+  },
+  "avg_price_range": [
+    1.0,
+    799.99
+  ],
+  "typical_items_per_order": 1531.6
+}
