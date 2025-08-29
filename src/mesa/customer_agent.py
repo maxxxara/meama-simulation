@@ -48,11 +48,10 @@ class CustomerAgent(CellAgent):
             
             # Handle case where customer has no historical orders
             if not self.historical_orders:
-                # For new customers or customers with no history, use current date as reference
-                days_since_first_order = 0
+                days_since_first_order = 365  # Use 1 year as baseline for new customers
             else:
                 first_order_date = datetime.fromisoformat(self.historical_orders[0].order_date).replace(tzinfo=None)
-                days_since_first_order = (current_date - first_order_date).days
+                days_since_first_order = max((current_date - first_order_date).days, 30)  # Minimum 30 days
 
             self.campaign_impact_factor = generate_campaign_impact_factor(self.campaign_impact_factor, self.new_order_count, current_date)
             will_order = decide_order_placement(

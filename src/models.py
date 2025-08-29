@@ -35,4 +35,3 @@ class CampaignEngagementMetrics(BaseModel):
     """Represents the metrics of the campaign."""
     total_orders: int = Field(0, ge=0, description="Total number of orders")
     active_customers: int = Field(0, ge=0, description="Number of customers who placed orders during campaign")
-    average_order_value: float = Field(0.0, ge=0, description="Average order value during campaign")

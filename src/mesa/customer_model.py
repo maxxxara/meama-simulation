@@ -5,8 +5,9 @@ from mesa import DataCollector
 from datetime import datetime, timedelta
 from config import CAMPAIGN_START, CAMPAIGN_END
 from ..tools.get_prizes import get_daily_prize, get_prize_winner
-from ..models import Customer
+from ..models import Customer, CampaignEngagementMetrics
 from mesa.agent import AgentSet
+from ..tools.tools import decide_new_customer_acquisition
 
 class CustomerModel(Model):
     """A simulation that shows behavior of customer agents in a campaign environment."""
@@ -59,6 +60,22 @@ class CustomerModel(Model):
             self.step()
 
     def new_day(self):
+        new_customers = decide_new_customer_acquisition(
+            current_date=self.current_date,
+            existing_customers_count=len(self.customers),
+            campaign_engagement_metrics=CampaignEngagementMetrics(
+                total_orders=self.received_orders_count,
+                active_customers=len(self.customers)
+            )
+        )
+        
+        # Add new customers to the simulation
+        for new_customer in new_customers:
+            self.customers.append(new_customer)
+            self.agents.add(CustomerAgent(self, new_customer))
+            self.new_customers_count += 1
+
+
         daily_prize = get_daily_prize(self.current_date)
         if daily_prize is not None:
             prize_winner = get_prize_winner(self.customers)

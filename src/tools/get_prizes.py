@@ -51,6 +51,22 @@ def get_daily_prize(current_date: datetime) -> Prize | None:
 
 
 def get_prize_winner(customers: list[Customer]) -> Customer:
-  customers = [customer for customer in customers if customer.tickets_count > 0]
-
-  return random.choice(customers)
+  """
+  Selects a prize winner using weighted random selection based on ticket count.
+  Customers with more tickets have proportionally higher chances of winning.
+  """
+  # Filter customers with tickets
+  eligible_customers = [customer for customer in customers if customer.tickets_count > 0]
+  
+  if not eligible_customers:
+    raise ValueError("No customers with tickets available for prize selection")
+  
+  # Create weighted list where each customer appears ticket_count times
+  weighted_customers = []
+  for customer in eligible_customers:
+    weighted_customers.extend([customer] * customer.tickets_count)
+  
+  # Select winner from weighted list
+  winner = random.choice(weighted_customers)
+  
+  return winner

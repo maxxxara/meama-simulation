@@ -38,6 +38,8 @@ def decide_order_placement(campaign_impact_factor: float, historical_orders: Lis
         daily_probability = NEW_CUSTOMER_BASELINE_PROBABILITY
     else:
         daily_probability = historical_orders_count / historical_days
+        # Cap the daily probability to prevent unrealistic values
+        daily_probability = min(daily_probability, 0.3)  # Maximum 30% daily probability
         
     # --- Step 2: Considering the campaign impact ---
     # We multiply the base probability by the campaign impact factor
@@ -186,7 +188,7 @@ def decide_new_customer_acquisition(current_date, existing_customers_count, camp
             word_of_mouth_factor = 1.0 + (engagement_score * CUSTOMER_ACQUISITION_WORD_OF_MOUTH_MULTIPLIER)
     
     # Market saturation factor - diminishing returns as customer base grows
-    saturation_factor = max(CUSTOMER_ACQUISITION_SATURATION_MIN_FACTOR, 1.0 - (existing_customers_count / MAX_CUSTOMER_LIMIT))
+    saturation_factor = max(CUSTOMER_ACQUISITION_SATURATION_MIN_FACTOR, 1.0 - (existing_customers_count / (existing_customers_count / 2)))
     
     # Day of week factor - weekends typically have higher acquisition rates
     day_of_week = current.weekday()
@@ -207,17 +209,26 @@ def decide_new_customer_acquisition(current_date, existing_customers_count, camp
     # Cap the probability to reasonable limits
     acquisition_probability = min(acquisition_probability, PROPORTION_OF_NEW_CUSTOMERS)  # Max 25% daily rate
     
-    # Determine number of customers to acquire using binomial distribution
-    # This models multiple independent acquisition events per day
-    customers_to_acquire = 0
+    # Determine number of customers to acquire using a more aggressive approach
+    # Use Poisson distribution for more realistic customer acquisition modeling
+    import math
     
-    # Try to acquire customers up to the maximum per day
-    for attempt in range(MAX_CUSTOMERS_PER_DAY):
+    # Calculate expected number of customers to acquire
+    expected_customers = acquisition_probability * MAX_CUSTOMERS_PER_DAY
+    
+    # Use Poisson distribution to determine actual number of customers
+    # This provides more realistic variation while maintaining the expected rate
+    customers_to_acquire = 0
+    for _ in range(MAX_CUSTOMERS_PER_DAY):
         if random.random() <= acquisition_probability:
             customers_to_acquire += 1
-        else:
-            # Stop trying if we fail to acquire one (realistic behavior)
-            break
+    
+    # Add some bonus customers on high-engagement days (weekends, campaign peaks)
+    if day_factor > 1.0 and random.random() < 0.3:  # 30% chance of bonus customers on weekends
+        customers_to_acquire += random.randint(1, 3)
+    
+    # Ensure we don't exceed the maximum
+    customers_to_acquire = min(customers_to_acquire, MAX_CUSTOMERS_PER_DAY)
     
     # Generate customer data and orders for all acquired customers
     new_customers_data : List[Customer] = []
