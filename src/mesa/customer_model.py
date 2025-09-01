@@ -76,19 +76,19 @@ class CustomerModel(Model):
             self.new_customers_count += 1
 
 
-        daily_prize = get_daily_prize(self.current_date)
-        if daily_prize is not None:
-            prize_winner = get_prize_winner(self.customers)
+        # daily_prize = get_daily_prize(self.current_date) # Disable campaign
+        # if daily_prize is not None:
+        #     prize_winner = get_prize_winner(self.customers)
 
-            prize_winner_agent = self.agents.select(
-                lambda agent: isinstance(agent, CustomerAgent) and agent.customer_id == prize_winner.id
-            )
-            if len(prize_winner_agent) > 0:
-                winner = list(prize_winner_agent)[0]
-                if isinstance(winner, CustomerAgent):
-                    winner.campaign_impact_factor = winner.campaign_impact_factor + daily_prize.campaign_impact_increase
-                    winner.hasWonImpactFactor = winner.hasWonImpactFactor + daily_prize.campaign_impact_increase
-                    winner.prize_wins.append(daily_prize.prize)
+        #     prize_winner_agent = self.agents.select(
+        #         lambda agent: isinstance(agent, CustomerAgent) and agent.customer_id == prize_winner.id
+        #     )
+        #     if len(prize_winner_agent) > 0:
+        #         winner = list(prize_winner_agent)[0]
+        #         if isinstance(winner, CustomerAgent):
+        #             winner.campaign_impact_factor = winner.campaign_impact_factor + daily_prize.campaign_impact_increase
+        #             winner.hasWonImpactFactor = winner.hasWonImpactFactor + daily_prize.campaign_impact_increase
+        #             winner.prize_wins.append(daily_prize.prize)
 
         self.agents.do("step")
         self.datacollector.collect(self)

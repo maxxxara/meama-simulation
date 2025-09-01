@@ -44,7 +44,8 @@ def decide_order_placement(campaign_impact_factor: float, historical_orders: Lis
     # --- Step 2: Considering the campaign impact ---
     # We multiply the base probability by the campaign impact factor
     # to get the increased probability during the campaign period.
-    campaign_daily_probability = daily_probability * campaign_impact_factor
+    # campaign_daily_probability = daily_probability * campaign_impact_factor # Disable campaign
+    campaign_daily_probability = daily_probability
     
     # Ensure the probability does not exceed 1.0 (probability cannot be greater than 100%).
     campaign_daily_probability = min(campaign_daily_probability, 1.0)
@@ -162,30 +163,30 @@ def decide_new_customer_acquisition(current_date, existing_customers_count, camp
     days_into_campaign = (current - CAMPAIGN_START).days
     campaign_progress = min(days_into_campaign / campaign_duration, 1.0)
     
-    # Base acquisition rate during campaign
-    base_campaign_rate = CUSTOMER_ACQUISITION_CAMPAIGN_BIAS 
+    # Base acquisition rate during campaign # Disable campaign
+    # base_campaign_rate = CUSTOMER_ACQUISITION_CAMPAIGN_BIAS 
     
-    # Campaign timing factor - higher rates at the beginning and end
-    if campaign_progress < CUSTOMER_ACQUISITION_EARLY_CAMPAIGN_THRESHOLD:
-        # Early campaign excitement
-        timing_factor = CUSTOMER_ACQUISITION_EARLY_CAMPAIGN_BOOST
-    elif campaign_progress > CUSTOMER_ACQUISITION_LATE_CAMPAIGN_THRESHOLD:
-        # End-of-campaign urgency
-        timing_factor = CUSTOMER_ACQUISITION_LATE_CAMPAIGN_BOOST
-    else:
-        # Mid-campaign steady state
-        timing_factor = 1.0
+    # # Campaign timing factor - higher rates at the beginning and end
+    # if campaign_progress < CUSTOMER_ACQUISITION_EARLY_CAMPAIGN_THRESHOLD:
+    #     # Early campaign excitement
+    #     timing_factor = CUSTOMER_ACQUISITION_EARLY_CAMPAIGN_BOOST
+    # elif campaign_progress > CUSTOMER_ACQUISITION_LATE_CAMPAIGN_THRESHOLD:
+    #     # End-of-campaign urgency
+    #     timing_factor = CUSTOMER_ACQUISITION_LATE_CAMPAIGN_BOOST
+    # else:
+    #     # Mid-campaign steady state
+    timing_factor = 1.0
     
     # Word-of-mouth effect based on campaign engagement
-    word_of_mouth_factor = 1.0
-    if campaign_engagement_metrics:
-        total_orders = campaign_engagement_metrics.total_orders
-        active_customers = campaign_engagement_metrics.active_customers
+    # word_of_mouth_factor = 1.0 # Disable campaign
+    # if campaign_engagement_metrics:
+    #     total_orders = campaign_engagement_metrics.total_orders
+    #     active_customers = campaign_engagement_metrics.active_customers
         
-        # More orders and active customers = better word-of-mouth
-        if total_orders > 0 and active_customers > 0:
-            engagement_score = min(total_orders / active_customers, CUSTOMER_ACQUISITION_WORD_OF_MOUTH_MAX_ENGAGEMENT)
-            word_of_mouth_factor = 1.0 + (engagement_score * CUSTOMER_ACQUISITION_WORD_OF_MOUTH_MULTIPLIER)
+    #     # More orders and active customers = better word-of-mouth
+    #     if total_orders > 0 and active_customers > 0:
+    #         engagement_score = min(total_orders / active_customers, CUSTOMER_ACQUISITION_WORD_OF_MOUTH_MAX_ENGAGEMENT)
+    #         word_of_mouth_factor = 1.0 + (engagement_score * CUSTOMER_ACQUISITION_WORD_OF_MOUTH_MULTIPLIER)
     
     # Market saturation factor - diminishing returns as customer base grows
     saturation_factor = max(CUSTOMER_ACQUISITION_SATURATION_MIN_FACTOR, 1.0 - (existing_customers_count / (existing_customers_count / 2)))
@@ -199,9 +200,9 @@ def decide_new_customer_acquisition(current_date, existing_customers_count, camp
     
     # Calculate final acquisition probability
     acquisition_probability = (
-        base_campaign_rate * 
+        # base_campaign_rate *  # Disable campaign
         timing_factor * 
-        word_of_mouth_factor * 
+        # word_of_mouth_factor *  # Disable campaign
         saturation_factor * 
         day_factor
     )

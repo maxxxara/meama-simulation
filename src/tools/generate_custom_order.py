@@ -266,15 +266,15 @@ def _calculate_target_order_value(customer: Customer, current_date):
     else:
         base_value = avg_order_value
     
-    # Apply campaign effects
-    campaign_factor = generate_campaign_impact_factor(BASE_CAMPAIGN_IMPACT_FACTOR, 0, current_date)
+    # Apply campaign effects # Disable campaign
+    # campaign_factor = generate_campaign_impact_factor(BASE_CAMPAIGN_IMPACT_FACTOR, 0, current_date)
     
-    # Campaign effect on order value (not just frequency)
+    # Campaign effect on order value (not just frequency) # Disable campaign
     # During campaign, customers might spend 10-30% more per order
-    if campaign_factor > 1.0:
-        value_multiplier = 1.0 + ((campaign_factor - 1.0) * CAMPAIGN_VALUE_MULTIPLIER_FACTOR)  # configurable % of frequency boost applies to value
-    else:
-        value_multiplier = 1.0
+    # if campaign_factor > 1.0:
+    #     value_multiplier = 1.0 + ((campaign_factor - 1.0) * CAMPAIGN_VALUE_MULTIPLIER_FACTOR)  # configurable % of frequency boost applies to value
+    # else:
+    value_multiplier = 1.0
     
     target_value = base_value * value_multiplier
     

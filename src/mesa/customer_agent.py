@@ -53,7 +53,8 @@ class CustomerAgent(CellAgent):
                 first_order_date = datetime.fromisoformat(self.historical_orders[0].order_date).replace(tzinfo=None)
                 days_since_first_order = max((current_date - first_order_date).days, 30)  # Minimum 30 days
 
-            self.campaign_impact_factor = generate_campaign_impact_factor(self.campaign_impact_factor, self.new_order_count, current_date)
+            # Disable campaign
+            # self.campaign_impact_factor = generate_campaign_impact_factor(self.campaign_impact_factor, self.new_order_count, current_date)
             will_order = decide_order_placement(
                 campaign_impact_factor=self.campaign_impact_factor,
                 historical_orders=self.historical_orders,
