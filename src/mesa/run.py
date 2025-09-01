@@ -21,8 +21,6 @@ with open("data/customers.json", "r") as f:
 
 customers : list[Customer] = []
 for customer_data in customers_data:
-    if len(customers) == 100:
-        break
     customers.append(Customer(
         id=customer_data["id"],
         email=customer_data["email"],

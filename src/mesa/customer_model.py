@@ -3,7 +3,7 @@ from mesa.experimental.cell_space import OrthogonalMooreGrid
 from .customer_agent import CustomerAgent
 from mesa import DataCollector
 from datetime import datetime, timedelta
-from config import CAMPAIGN_START, CAMPAIGN_END
+from config import CAMPAIGN_START, CAMPAIGN_END, ENABLE_CAMPAIGN_EFFECTS
 from ..tools.get_prizes import get_daily_prize, get_prize_winner
 from ..models import Customer, CampaignEngagementMetrics
 from mesa.agent import AgentSet
@@ -42,7 +42,10 @@ class CustomerModel(Model):
                 "campaign_impact_factor": "campaign_impact_factor",
                 "hasWonImpactFactor": "hasWonImpactFactor",
                 "prize_wins": "prize_wins",
-                "new_order_count": "new_order_count"
+                "new_order_count": "new_order_count",
+                "lifecycle_state": "lifecycle_state",
+                "is_churned": "is_churned",
+                "days_since_last_order": "days_since_last_order"
             }
         )
 
@@ -76,19 +79,21 @@ class CustomerModel(Model):
             self.new_customers_count += 1
 
 
-        daily_prize = get_daily_prize(self.current_date)
-        if daily_prize is not None:
-            prize_winner = get_prize_winner(self.customers)
+        # Handle daily prizes only if campaign effects are enabled
+        if ENABLE_CAMPAIGN_EFFECTS:
+            daily_prize = get_daily_prize(self.current_date)
+            if daily_prize is not None:
+                prize_winner = get_prize_winner(self.customers)
 
-            prize_winner_agent = self.agents.select(
-                lambda agent: isinstance(agent, CustomerAgent) and agent.customer_id == prize_winner.id
-            )
-            if len(prize_winner_agent) > 0:
-                winner = list(prize_winner_agent)[0]
-                if isinstance(winner, CustomerAgent):
-                    winner.campaign_impact_factor = winner.campaign_impact_factor + daily_prize.campaign_impact_increase
-                    winner.hasWonImpactFactor = winner.hasWonImpactFactor + daily_prize.campaign_impact_increase
-                    winner.prize_wins.append(daily_prize.prize)
+                prize_winner_agent = self.agents.select(
+                    lambda agent: isinstance(agent, CustomerAgent) and agent.customer_id == prize_winner.id
+                )
+                if len(prize_winner_agent) > 0:
+                    winner = list(prize_winner_agent)[0]
+                    if isinstance(winner, CustomerAgent):
+                        winner.campaign_impact_factor = winner.campaign_impact_factor + daily_prize.campaign_impact_increase
+                        winner.hasWonImpactFactor = winner.hasWonImpactFactor + daily_prize.campaign_impact_increase
+                        winner.prize_wins.append(daily_prize.prize)
 
         self.agents.do("step")
         self.datacollector.collect(self)

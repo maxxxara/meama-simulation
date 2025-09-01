@@ -4,7 +4,7 @@ from collections import Counter
 import json
 from typing import Union, Dict, Any
 from config import (
-    CAMPAIGN_START, CAMPAIGN_END,
+    CAMPAIGN_START, CAMPAIGN_END, ENABLE_CAMPAIGN_EFFECTS,
     DEFAULT_NEW_CUSTOMER_ORDER_VALUE, CAMPAIGN_VALUE_MULTIPLIER_FACTOR,
     MINIMUM_ORDER_VALUE,MAXIMUM_ITEMS_PER_ORDER,
     MINIMUM_PRICE_RANGE, MAXIMUM_PRICE_RANGE, DEFAULT_ITEMS_PER_ORDER,
@@ -254,6 +254,7 @@ def _get_default_product_preferences():
 def _calculate_target_order_value(customer: Customer, current_date):
     """
     Calculates the target order value based on customer history and campaign effects.
+    Campaign effects on order value are ignored if ENABLE_CAMPAIGN_EFFECTS is False.
     """
     
     # Get base order value from customer history
@@ -266,14 +267,18 @@ def _calculate_target_order_value(customer: Customer, current_date):
     else:
         base_value = avg_order_value
     
-    # Apply campaign effects
-    campaign_factor = generate_campaign_impact_factor(BASE_CAMPAIGN_IMPACT_FACTOR, 0, current_date)
-    
-    # Campaign effect on order value (not just frequency)
-    # During campaign, customers might spend 10-30% more per order
-    if campaign_factor > 1.0:
-        value_multiplier = 1.0 + ((campaign_factor - 1.0) * CAMPAIGN_VALUE_MULTIPLIER_FACTOR)  # configurable % of frequency boost applies to value
+    # Apply campaign effects only if enabled
+    if ENABLE_CAMPAIGN_EFFECTS:
+        campaign_factor = generate_campaign_impact_factor(BASE_CAMPAIGN_IMPACT_FACTOR, 0, current_date)
+        
+        # Campaign effect on order value (not just frequency)
+        # During campaign, customers might spend 10-30% more per order
+        if campaign_factor > 1.0:
+            value_multiplier = 1.0 + ((campaign_factor - 1.0) * CAMPAIGN_VALUE_MULTIPLIER_FACTOR)  # configurable % of frequency boost applies to value
+        else:
+            value_multiplier = 1.0
     else:
+        # No campaign effects - use baseline multiplier
         value_multiplier = 1.0
     
     target_value = base_value * value_multiplier
@@ -358,18 +363,21 @@ def _get_product_price(product_name, current_date):
             if product['name'] == product_name:
                 base_price = product['avg_price']
                 
-                # Campaign period might have special pricing
-                if isinstance(current_date, str):
-                    if 'T' in current_date:
-                        dt = datetime.fromisoformat(current_date.replace('Z', '+00:00'))
-                        current = dt.replace(tzinfo=None)
+                # Campaign period might have special pricing (only if campaign effects enabled)
+                if ENABLE_CAMPAIGN_EFFECTS:
+                    if isinstance(current_date, str):
+                        if 'T' in current_date:
+                            dt = datetime.fromisoformat(current_date.replace('Z', '+00:00'))
+                            current = dt.replace(tzinfo=None)
+                        else:
+                            current = datetime.strptime(current_date, "%Y-%m-%d")
+                    elif hasattr(current_date, 'tzinfo') and current_date.tzinfo is not None:
+                        current = current_date.replace(tzinfo=None)
                     else:
-                        current = datetime.strptime(current_date, "%Y-%m-%d")
-                elif hasattr(current_date, 'tzinfo') and current_date.tzinfo is not None:
-                    current = current_date.replace(tzinfo=None)
+                        current = current_date
+                    is_campaign = CAMPAIGN_START <= current <= CAMPAIGN_END
                 else:
-                    current = current_date
-                is_campaign = CAMPAIGN_START <= current <= CAMPAIGN_END
+                    is_campaign = False
                 
                 return round(base_price, 2)
         

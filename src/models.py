@@ -1,6 +1,14 @@
 from pydantic import BaseModel, Field, validator
 from typing import List, Optional, Union
 from datetime import datetime
+from enum import Enum
+
+class CustomerLifecycleState(str, Enum):
+    """Customer lifecycle states based on purchase behavior."""
+    DORMANT = "dormant"      # No orders in 6+ months
+    ACTIVE = "active"        # Regular purchaser
+    CHAMPION = "champion"    # High-value, frequent customer
+    AT_RISK = "at_risk"      # Declining purchase frequency
 
 
 class OrderLine(BaseModel):
@@ -29,6 +37,12 @@ class Customer(BaseModel):
     total_orders: int = Field(0, ge=0, description="Total number of orders")
     is_new_customer: Optional[bool] = Field(False, description="Whether this is a new customer")
     tickets_count: int = Field(0, ge=0, description="Number of tickets")
+    lifecycle_state: Optional[CustomerLifecycleState] = Field(CustomerLifecycleState.ACTIVE, description="Customer lifecycle state")
+    satisfaction_score: float = Field(0.7, ge=0.0, le=1.0, description="Customer satisfaction score (0-1)")
+    purchase_intent_level: float = Field(0.5, ge=0.0, le=1.0, description="Current purchase intent level (0-1)")
+    price_sensitivity: float = Field(0.5, ge=0.0, le=1.0, description="Price sensitivity (0=not sensitive, 1=very sensitive)")
+    brand_loyalty: float = Field(0.5, ge=0.0, le=1.0, description="Brand loyalty score (0-1)")
+    last_negative_experience_days: int = Field(999, ge=0, description="Days since last negative experience")
 
 
 class CampaignEngagementMetrics(BaseModel):
