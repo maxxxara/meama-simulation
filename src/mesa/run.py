@@ -53,3 +53,35 @@ print(f"Generated Revenue: {model.generated_revenue}")
 print(f"New Customers Count: {model.new_customers_count}")
 print()
 
+
+
+# Find customers with prize wins
+print("=== CUSTOMERS WITH PRIZE WINS ===")
+customers_with_prizes = []
+for agent in model.agents:
+    # Check if this is a CustomerAgent and has prize wins
+    if isinstance(agent, CustomerAgent) and len(agent.prize_wins) > 0:
+        customers_with_prizes.append({
+            'customer_id': agent.customer_id,
+            'email': agent.email,
+            'prize_wins': agent.prize_wins,
+            'prize_count': len(agent.prize_wins),
+            'tickets_count': agent.tickets_count
+        })
+
+if customers_with_prizes:
+    for customer in customers_with_prizes:
+        print(f"Customer ID: {customer['customer_id']}")
+        print(f"Email: {customer['email']}")
+        print(f"Prizes Won: {customer['prize_wins']}")
+        print(f"Tickets Count: {customer['tickets_count']}")
+        print("-" * 40)
+else:
+    print("No customers have won prizes yet.")
+print()
+
+# Generate Excel report
+print("=== GENERATING EXCEL REPORT ===")
+excel_file_path = generate_campaign_excel_report(model)
+print(f"Excel report saved to: {excel_file_path}")
+print()

@@ -1,7 +1,7 @@
 from datetime import datetime
 
 CAMPAIGN_START = datetime(2025, 9, 1) # September 1, 2025
-CAMPAIGN_END = datetime(2025, 11, 30) # November 30, 2025
+CAMPAIGN_END = datetime(2025, 9, 11) # November 30, 2025
 
 BASE_CAMPAIGN_IMPACT_FACTOR = 1.1 # 10% base increase during campaign
 CAMPAIGN_ENGAGEMENT_MULTIPLIER = 0.05 # Additional 5% per order during campaign

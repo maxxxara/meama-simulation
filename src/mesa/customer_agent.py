@@ -40,6 +40,7 @@ class CustomerAgent(CellAgent):
         self.hasWonImpactFactor : float = 1.0
         self.prize_wins = []
         self.new_order_count = 0
+        self.campaign_spending = 0.0  # Track spending during campaign period
 
 
     def step(self):
@@ -84,6 +85,7 @@ class CustomerAgent(CellAgent):
                 self.total_orders += 1
                 self.avg_order_value = self.historical_spending / self.total_orders
                 self.new_order_count += 1
+                self.campaign_spending += new_order.total_spent
                 self.model.received_orders_count += 1 # type: ignore
 
 
