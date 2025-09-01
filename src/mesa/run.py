@@ -16,6 +16,8 @@ data_dir = os.path.join(project_root, "data")
 # Ensure data directory exists
 os.makedirs(data_dir, exist_ok=True)
 
+print("=== LOADING CUSTOMERS ===")
+
 with open("data/customers.json", "r") as f:
     customers_data = json.load(f)
 
